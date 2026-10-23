@@ -4,7 +4,7 @@
 
 6:30.76 · English · 24 scenes · 1920×1080 composition at 30 fps. Local Kokoro Michael narration, original procedural music and action-aligned sound effects. Motion Canvas draws frames against the audio clock; playback uses no MP4.
 
-Alex signs up to watch a documentary, discovers a renewal at breakfast, navigates a fictional cancellation maze, and finds a more deliberate route out. New limb poses include phone use, drinking, pointing, carrying a receipt, shrugging and walking. Head, ears and neck share fixed geometry; the camera, limbs, expressions and props carry the action.
+Alex signs up to watch a documentary, discovers a renewal at breakfast, navigates a fictional cancellation maze, and finds a more deliberate route out. New limb poses include phone use, drinking, pointing, carrying a receipt, shrugging and walking. Hands use simple circles, including the phone grip; no elongated finger strokes. Typography prefers Times New Roman, with bundled Liberation Serif as the fallback on devices without that font. Head, ears and neck share fixed geometry; the camera, limbs, expressions and props carry the action.
 
 - [Animation source](../../viewer/src/projects/trial/)
 - [Mixed audio](../../viewer/public/audio/trial.mp3)

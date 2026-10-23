@@ -1,6 +1,9 @@
-import {Node,Rect,Circle,Path} from '@motion-canvas/2d';
-import {C,text,box,disk,line,polygon,pill,book} from '../scroll/art';
-export {C,text,box,disk,line,polygon,pill,book};
+import {Node,Rect,Circle,Path,Txt} from '@motion-canvas/2d';
+import {C,text as baseText,box,disk,line,polygon,pill as basePill,book} from '../scroll/art';
+export {C,box,disk,line,polygon,book};
+export const font='"Times New Roman", "Liberation Serif", serif';
+export function text(...args:Parameters<typeof baseText>){const n=baseText(...args);n.fontFamily(font);return n;}
+export function pill(...args:Parameters<typeof basePill>){const n=basePill(...args);n.findAll(child=>child instanceof Txt).forEach(child=>(child as Txt).fontFamily(font));return n;}
 export const clamp=(v:number)=>Math.max(0,Math.min(1,v));
 export const ramp=(t:number,a:number,b=1)=>{const v=clamp((t-a)/b);return v*v*(3-2*v)};
 export function actor(p:Node,x:number,y:number,t:()=>number,pose='phone',mood='neutral',scale=1,walk=false){
@@ -19,10 +22,10 @@ export function actor(p:Node,x:number,y:number,t:()=>number,pose='phone',mood='n
  const right=()=>pose==='point'?[135,-42-50*raise()]:pose==='shrug'?[111,-80-35*raise()]:pose==='cup'?[87,-72-40*ramp(t(),2,1.2)]:pose==='paper'?[88,-46]:[79,-74];
  line(g,()=>[[-46,-89],[-81,pose==='shrug'?-42:-28],left()],C.teal,23);const lhand=disk(g,0,0,25,C.skin);lhand.position(()=>left() as [number,number]);
  line(g,()=>[[46,-89],[pose==='point'?92:96,pose==='point'?-62:-20],right()],C.teal,23);const hand=new Node({});g.add(hand);hand.position(()=>right() as [number,number]);disk(hand,0,0,26,C.skin);
- if(pose==='phone'){const ph=new Node({x:-10,y:-43,rotation:-7});hand.add(ph);const tiny=phone(ph,0,0,'',.18);box(tiny,0,10,250,280,C.lavender,18);text(tiny,'▶',0,10,95,C.teal);line(hand,()=>[[4,0],[2,-18],[-4,-35-8*Math.max(0,Math.sin(t()*2))]],C.skin,8);}
- if(pose==='cup'){mug(hand,5,-13,.5);line(hand,[[-6,0],[2,-5],[15,-5]],C.skin,8);}
+ if(pose==='phone'){const ph=new Node({x:-10,y:-43,rotation:-7});hand.add(ph);const tiny=phone(ph,0,0,'',.18);box(tiny,0,10,250,280,C.lavender,18);polygon(tiny,[[-40,-65],[85,10],[-40,85]],C.teal);disk(hand,0,-2,24,C.skin);}
+ if(pose==='cup'){mug(hand,5,-13,.5);disk(hand,-6,0,20,C.skin);}
  if(pose==='paper'){const paper=box(hand,0,-60,80,116,C.white,4,C.line);for(let j=0;j<4;j++)line(paper,[[-24,-35+j*18],[24,-35+j*18]],C.line,4);disk(hand,-14,-7,19,C.skin);}
- if(pose==='point')line(hand,[[0,0],[20,-5]],C.skin,8);
+
  return g;
 }
 export function phone(p:Node,x:number,y:number,label='',scale=1){const g=new Node({x,y,scale});p.add(g);box(g,0,0,330,570,C.deep,43);box(g,0,0,306,540,C.white,33);box(g,0,-248,100,17,C.deep,10);box(g,0,249,95,7,C.deep,4);text(g,label,0,-190,30,C.ink);return g;}
