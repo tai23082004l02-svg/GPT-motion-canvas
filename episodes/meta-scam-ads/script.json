@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "kind": "hook",
+    "title": "IT WAS A SPONSORED AD.",
+    "narration": "The ad looks professional. The person on screen sounds familiar. The comments say it works. Alex thinks: if this is a scam, why is a major platform showing it to me? That question just became a lawsuit.",
+    "chapter": "The ad and the lawsuit",
+    "source": "Illustrative reconstruction"
+  },
+  {
+    "id": 2,
+    "kind": "news",
+    "title": "RHODE ISLAND v. META",
+    "narration": "On October twenty-second, twenty twenty-six, Rhode Island sued Meta over scam advertising. According to Reuters, the state alleges Meta profited from fraudulent ads and helped create or optimize some of them. Meta disputes the case and says it will fight it.",
+    "chapter": null,
+    "source": "Reuters \u00b7 October 22, 2026 \u00b7 allegations disputed"
+  },
+  {
+    "id": 3,
+    "kind": "stakes",
+    "title": "WHAT IS THE STATE ASKING FOR?",
+    "narration": "The state is seeking penalties, money back for consumers, and changes to the company's practices. Those are requests in a civil lawsuit, not a judgment already entered. As of this episode, October twenty-third, these allegations remain contested.",
+    "chapter": null,
+    "source": "Reuters \u00b7 October 22, 2026 \u00b7 case status as of October 23"
+  },
+  {
+    "id": 4,
+    "kind": "response",
+    "title": "META\u2019S RESPONSE",
+    "narration": "Meta calls the lawsuit unfounded and says it ignores the company's work against scams. In its own March announcement, Meta said it removed more than one hundred fifty-nine million scam ads in twenty twenty-five and was expanding advertiser verification.",
+    "chapter": "Two accounts of the problem",
+    "source": "Meta Newsroom \u00b7 March 2026 \u00b7 company-reported figures"
+  },
+  {
+    "id": 5,
+    "kind": "distinction",
+    "title": "REMOVAL IS NOT A SAFETY RATE",
+    "narration": "That removal count matters. But it doesn't tell you what fraction of scam ads were caught, or whether the ad in front of Alex is safe. The state challenges the system's conduct. Meta points to its defenses. Evidence and legal arguments will have to resolve the dispute.",
+    "chapter": null,
+    "source": "Editorial explanation \u00b7 no detection-rate estimate"
+  },
+  {
+    "id": 6,
+    "kind": "example",
+    "title": "THE BORROWED FACE",
+    "narration": "One example described in Reuters' reporting involves ads impersonating a bank executive and leading users toward bogus stock trades on WhatsApp. The state's allegation is that familiar names and institutions were used to borrow trust. It is not that the real executive endorsed the scheme.",
+    "chapter": null,
+    "source": "Reuters \u00b7 October 22, 2026 \u00b7 reported allegation"
+  },
+  {
+    "id": 7,
+    "kind": "pause",
+    "title": "PAID PLACEMENT \u2260 PROOF",
+    "narration": "Now pause on Alex's question. A paid placement tells you you're looking at an advertisement. It doesn't prove the seller is honest, the person is really involved, or the promised result will happen. A familiar platform and a trustworthy offer are two separate things.",
+    "chapter": "How an ad borrows trust",
+    "source": "Illustrative explanation \u00b7 no platform endorsement implied"
+  },
+  {
+    "id": 8,
+    "kind": "demo",
+    "title": "A FICTIONAL AD, A REAL PATTERN",
+    "narration": "Let's follow a fictional example. This is not an actual victim or an ad from the lawsuit. Alex sees an investment club promising easy profits. The video features an invented expert, an impressive backdrop, and a button marked Learn More.",
+    "chapter": null,
+    "source": "Fictional demonstration \u00b7 no real endorsement"
+  },
+  {
+    "id": 9,
+    "kind": "faces",
+    "title": "THE FACE IS NOT THE EVIDENCE",
+    "narration": "The video looks convincing. But financial regulators warn that scammers can impersonate public figures and use AI-generated images or video. Looking for a strange blink or a broken hand isn't enough. You need a way to check the claim outside the clip.",
+    "chapter": null,
+    "source": "California DOJ \u00b7 investment scam warning \u00b7 2026"
+  },
+  {
+    "id": 10,
+    "kind": "comments",
+    "title": "THE COMMENT SECTION",
+    "narration": "Below it, little messages seem to agree. I got paid. This changed my life. In our example, those accounts are part of the pitch. A wall of praise can feel like evidence even when you haven't verified a single person behind it.",
+    "chapter": null,
+    "source": "Fictional demonstration \u00b7 SEC warns about false testimonials"
+  },
+  {
+    "id": 11,
+    "kind": "handoff",
+    "title": "THE PRIVATE-GROUP HANDOFF",
+    "narration": "Alex taps the button and is invited into a messaging group. Suddenly there is a helpful administrator and a stream of successful trades. California's attorney general has warned about social media investment ads that move people into messaging apps and fraudulent investment schemes.",
+    "chapter": "Following the money",
+    "source": "California DOJ \u00b7 Facebook, Instagram and WhatsApp warning"
+  },
+  {
+    "id": 12,
+    "kind": "deposit",
+    "title": "THE FIRST DEPOSIT",
+    "narration": "In the fictional group, the administrator offers to guide Alex through a small deposit. The amount feels manageable. A dashboard appears, and the balance starts rising. But a number drawn on a screen isn't evidence that an investment exists or that money can be withdrawn.",
+    "chapter": null,
+    "source": "Fictional demonstration \u00b7 FTC investment scam guidance"
+  },
+  {
+    "id": 13,
+    "kind": "withdraw",
+    "title": "PAY TO GET YOUR OWN MONEY?",
+    "narration": "Then Alex asks to withdraw. A new message arrives: first, pay a release fee. Maybe it's called a tax or verification charge. Regulators warn that investment scams can invent extra payments when people try to get their money back. Sending more can deepen the loss.",
+    "chapter": null,
+    "source": "FTC \u00b7 investment scam guidance"
+  },
+  {
+    "id": 14,
+    "kind": "pullback",
+    "title": "THE AD WAS ONLY THE FIRST DOOR",
+    "narration": "Pull the camera back. The polished ad, borrowed identity, apparent crowd, private conversation, and fake balance all supported one journey. That is why looking only at the final payment can miss how trust was built before the money moved.",
+    "chapter": null,
+    "source": "Editorial reconstruction \u00b7 illustrative funnel"
+  },
+  {
+    "id": 15,
+    "kind": "scope",
+    "title": "BIGGER THAN ONE PLATFORM",
+    "narration": "The FTC says people reported losing two point one billion dollars to scams that started on social media in twenty twenty-five. That includes different platforms and different kinds of contact. It is not a Meta-only figure, not an ad-only figure, and not a court finding against Meta.",
+    "chapter": "What the numbers actually say",
+    "source": "FTC \u00b7 April 2026 \u00b7 reported social-media-origin losses"
+  },
+  {
+    "id": 16,
+    "kind": "units",
+    "title": "TWO NUMBERS. DIFFERENT QUESTIONS.",
+    "narration": "Don't combine that dollar figure with Meta's ad-removal count to calculate a safety score. One counts reported losses across social media. The other counts ads the company says it removed. Different units, different coverage, different questions. Neither tells Alex to trust this particular pitch.",
+    "chapter": null,
+    "source": "FTC and Meta figures have different scope and units"
+  },
+  {
+    "id": 17,
+    "kind": "system",
+    "title": "WHAT WOULD BETTER DEFENSE LOOK LIKE?",
+    "narration": "The useful questions are concrete. Can a platform identify the advertiser? Can it stop a removed scammer from returning? What happens after a report? Meta says it is expanding verification and anti-scam technology. The lawsuit challenges whether its conduct and safeguards have been adequate.",
+    "chapter": "The platform question",
+    "source": "Meta Newsroom; Reuters \u00b7 distinct claims, not findings"
+  },
+  {
+    "id": 18,
+    "kind": "separate",
+    "title": "CHECK OUTSIDE THE AD",
+    "narration": "For Alex, the next move is outside the ad's little world. He closes the link, looks up the institution independently, and uses contact information from its official website. He checks whether the person actually made the recommendation. The ad doesn't get to supply its own proof.",
+    "chapter": "A better next click",
+    "source": "SEC / Investor.gov \u00b7 independent verification guidance"
+  },
+  {
+    "id": 19,
+    "kind": "pressure",
+    "title": "WHEN URGENCY IS PART OF THE PITCH",
+    "narration": "Guaranteed returns, a secret opportunity, or pressure to transfer money now are reasons to slow down. A real logo and an active chat group don't cancel those warnings. If the opportunity can't survive an independent check, it doesn't deserve your deposit.",
+    "chapter": null,
+    "source": "SEC / Investor.gov \u00b7 investment fraud warnings"
+  },
+  {
+    "id": 20,
+    "kind": "records",
+    "title": "IF YOU ALREADY SENT MONEY",
+    "narration": "If you've already paid, act promptly. Contact your bank or the payment service and explain what happened. Keep the ad, account names, messages, website address, and transaction records. Report the account to the platform and the scam to the FTC. Recovery is not guaranteed.",
+    "chapter": null,
+    "source": "FTC \u00b7 What To Do if You Were Scammed"
+  },
+  {
+    "id": 21,
+    "kind": "recovery",
+    "title": "THE SECOND SCAM",
+    "narration": "And watch for the second pitch: someone claiming they can recover everything for an upfront fee. The FTC warns about refund and recovery scams. Losing money doesn't mean you should hand the next stranger your wallet too.",
+    "chapter": null,
+    "source": "FTC \u00b7 Refund and Recovery Scams"
+  },
+  {
+    "id": 22,
+    "kind": "return",
+    "title": "ONE DIFFERENT DECISION",
+    "narration": "Back at the beginning, Alex still sees the polished ad. This time he doesn't try to judge honesty from the lighting, the voice, or the comment count. He asks a smaller, stronger question: what can I verify somewhere this advertiser doesn't control?",
+    "chapter": "Back to the feed",
+    "source": "Fictional Alex story \u00b7 illustrative reconstruction"
+  },
+  {
+    "id": 23,
+    "kind": "case",
+    "title": "WHAT HAPPENS NEXT?",
+    "narration": "The Rhode Island case will turn on evidence and the law, not how persuasive a headline sounds. We should watch the court process and Meta's responses without turning allegations into a verdict. The practical lesson can stand while the legal dispute continues.",
+    "chapter": null,
+    "source": "Case status: October 23, 2026 \u00b7 allegations disputed"
+  },
+  {
+    "id": 24,
+    "kind": "final",
+    "title": "SPONSORED DOES NOT MEAN VERIFIED.",
+    "narration": "A scam doesn't need to look suspicious. It needs to look familiar long enough for the next click. A paid ad can buy your attention. Before it earns your money, make it earn your trust somewhere outside the ad.",
+    "chapter": null,
+    "source": "Independent verification before payment"
+  }
+]

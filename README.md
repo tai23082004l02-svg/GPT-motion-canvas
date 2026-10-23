@@ -9,7 +9,19 @@
 
 Alex trong phòng xem đã được giữ ổn định đầu/cổ theo góp ý. Các file MP4 cũ vẫn nằm trong mục tải bên dưới; trình xem không dùng chúng.
 
-## Tập 004 — mới nhất
+## Tập 005 — mới nhất
+
+**Why Scam Ads Keep Finding You — Meta’s New Lawsuit Explained** — vụ kiện Rhode Island, phản hồi của Meta và hành trình từ quảng cáo hấp dẫn đến nhóm đầu tư giả. Phân biệt rõ cáo buộc, số liệu và minh họa.
+
+**7 phút 10 giây · 24 cảnh · Kokoro Michael · chữ Times New Roman/serif · bàn tay tròn · không có bộ đếm cảnh trong hình**
+
+- **[Xem tập 005 online](https://tai23082004l02-svg.github.io/GPT-motion-canvas/?episode=meta)**
+- [Kịch bản, nguồn và bộ bàn giao](episodes/meta-scam-ads/)
+- [Thumbnail](episodes/meta-scam-ads/deliverables/thumbnail.png)
+
+![Meta scam ads thumbnail](episodes/meta-scam-ads/deliverables/thumbnail.png)
+
+## Tập 004
 
 **Why Your Free Trial Is So Hard to Cancel** — theo Alex từ nút dùng thử đến mê cung hủy đăng ký. Thêm hành động, biểu cảm, cỡ cảnh và đạo cụ; đầu/cổ giữ ổn định.
 

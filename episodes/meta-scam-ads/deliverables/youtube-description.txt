@@ -1,0 +1,36 @@
+TITLE: Why Scam Ads Keep Finding You — Meta’s New Lawsuit Explained
+
+The ad looks professional. The platform feels familiar. So why could it still be a scam?
+
+On October 22, 2026, Rhode Island sued Meta over scam advertising. Meta disputes the allegations. This animated explainer separates the reported claims, Meta’s response, and what the numbers do — and don’t — tell us. Then we follow Alex through a fictional investment ad, private group and fake dashboard.
+
+Alex, the presenter and every depicted ad/interface are original illustrations, not evidence from the case or a real victim’s experience. Legal status is as of October 23, 2026. Allegations are not findings. Meta’s ad-removal count and FTC social-media-loss data measure different things.
+
+CHAPTERS
+00:00 The ad and the lawsuit
+00:50 Two accounts of the problem
+01:47 How an ad borrows trust
+02:56 Following the money
+04:09 What the numbers actually say
+04:49 The platform question
+05:10 A better next click
+06:21 Back to the feed
+
+SOURCES
+Reuters (case, October 22): https://www.reuters.com/world/rhode-island-sues-meta-over-alleged-tolerance-scam-advertising-2026-10-22/
+Reuters syndication: https://www.investing.com/news/stock-market-news/exclusiverhode-island-sues-meta-over-alleged-tolerance-for-scam-advertising-4967008
+Meta’s anti-scam announcement: https://about.fb.com/news/2026/03/fighting-scammers-protecting-people-with-new-technology-and-partnerships/
+FTC social-media scams: https://consumer.ftc.gov/consumer-alerts/2026/04/how-spot-top-scams-started-social-media
+California DOJ: https://oag.ca.gov/news/press-releases/attorney-general-bonta-warns-californians-investment-scams-facebook-instagram
+SEC / Investor.gov: https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-alerts/social-media-and-investment-fraud-investor-alert
+FTC investment scams: https://consumer.ftc.gov/articles/investment-scams
+FTC steps after a scam: https://consumer.ftc.gov/articles/what-do-if-you-were-scammed
+FTC recovery scams: https://consumer.ftc.gov/articles/refund-and-recovery-scams
+
+REPORT A SCAM
+https://reportfraud.ftc.gov/
+Contact your bank/payment service promptly if you sent money. Recovery is not guaranteed.
+
+Original animation, music and Foley. Synthetic US English narration: Kokoro Michael.
+
+#Meta #ScamAds #Explained
