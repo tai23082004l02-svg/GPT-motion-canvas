@@ -1,0 +1,42 @@
+scene,start_seconds,end_seconds,chapter,on_screen_title,visual
+1,0,12.2,The question,You paid. So why is it still there?,phone
+2,12.2,22.92,The question,A $200 payment. Only $100 of progress.,phone
+3,22.92,33.8,The hidden cost,Meet the cost of carrying a balance.,hero
+4,33.8,47.74,The example,Let’s make the math visible.,equation
+5,47.74,54.7,The example,From an annual rate to a monthly estimate.,equation
+6,54.7,66.1,The example,One month can cost about $100.,equation
+7,66.1,78.08,A useful detail,Real cards usually calculate interest daily.,flow
+8,78.08,88,Follow the money,Start with the balance. Add the interest.,equation
+9,88,95.3,Follow the money,Then subtract your payment.,equation
+10,95.3,108.5,Follow the money,Your payment does two jobs.,split
+11,108.5,113.86,The distinction,A payment is not the same as progress.,compare
+12,113.86,127.7,The way forward,"Yes, the balance can go down.",flow
+13,127.7,139.38,The way forward,Less balance. Less interest.,equation
+14,139.38,148.3,The way forward,The same payment starts working harder.,compare
+15,148.3,155.86,The way forward,"Over time, the split shifts in your favor.",bars
+16,155.86,166.48,New spending,Then life happens.,hero
+17,166.48,179.64,New spending,Small purchases add up.,equation
+18,179.64,189.78,New spending,You paid down $100. Then added $120.,compare
+19,189.78,196.72,New spending,Paid on time. Still moving backward.,phone
+20,196.72,208.48,The treadmill,The treadmill effect.,cycle
+21,208.48,223.22,Minimum payments,Small can feel manageable.,hero
+22,223.22,238.84,Minimum payments,Current does not mean paid off quickly.,flow
+23,238.84,247.3,Minimum payments,The minimum can shrink with the balance.,bars
+24,247.3,253.92,Minimum payments,Smaller payments can mean a longer road.,hero
+25,253.92,271.22,The shrinking steps,Imagine walking toward an exit.,steps
+26,271.22,287.72,A fixed payment,Keep the payment steady when you can.,compare
+27,287.72,296.4,Grace periods,New purchases can cost more than expected.,hero
+28,296.4,310.7,Grace periods,Paying in full can protect the grace period.,flow
+29,310.7,323.42,Grace periods,Carrying a balance can change the rules.,flow
+30,323.42,331.56,Grace periods,New spending makes the climb harder.,cycle
+31,331.56,349.48,What helps · 01,Separate old debt from new expenses.,compare
+32,349.48,360.56,What helps · 02,Check the APR.,compare
+33,360.56,366.24,What helps · 02,Same payment. Different progress.,compare
+34,366.24,380.28,What helps · 03,Read the minimum payment warning.,statement
+35,380.28,392.92,What helps · 03,Look for the three-year payment amount.,statement
+36,392.92,399.82,What helps · 04,See what an extra payment can do.,hero
+37,399.82,414.06,What helps · 04,Compare the first month.,compare
+38,414.06,426.94,What helps · 04,50% more paid. Twice the debt reduction.,equation
+39,426.94,444.2,When money is tight,Start with what your budget allows.,hero
+40,444.2,457.94,The number that matters,Measure the progress.,compare
+41,457.94,471.725,The number that matters,Ask a better question.,exit
