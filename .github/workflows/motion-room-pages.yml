@@ -33,10 +33,13 @@ jobs:
       - name: Update the existing Pages branch
         shell: bash
         run: |
-          git rm -f --ignore-unmatch 'index-*.js' 'index-*.css' 'project-*.js' 'Path-*.js' 'art-*.js' '_virtual_settings-*.js'
+          git rm -f --ignore-unmatch ':(top,glob)*-*.js' ':(top,glob)*-*.css'
           cp -a viewer/dist/. .
           touch .nojekyll
-          git add index.html index-*.js index-*.css project-*.js Path-*.js art-*.js _virtual_settings-*.js audio captions fonts images favicon.svg .nojekyll
+          while IFS= read -r -d '' asset; do
+            git add -- "${asset#viewer/dist/}"
+          done < <(find viewer/dist -type f -print0)
+          git add .nojekyll
           if ! git diff --cached --quiet; then
             git config user.name 'github-actions[bot]'
             git config user.email '41898282+github-actions[bot]@users.noreply.github.com'

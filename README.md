@@ -2,7 +2,10 @@
 
 ## Phòng xem online
 
-**[Mở Motion Room](https://tai23082004l02-svg.github.io/GPT-motion-canvas/)** — xem hoạt hình trực tiếp, không tải hay xuất MP4. Có phát/dừng, tua cảnh, âm thanh đồng bộ, phụ đề, tốc độ phát và lưu tiến độ trên trình duyệt.
+**[Mở Motion Room](https://tai23082004l02-svg.github.io/GPT-motion-canvas/)** — xem hoạt hình trực tiếp hoặc **xuất MP4 để đăng YouTube**. Có phát/dừng, tua cảnh, âm thanh đồng bộ, phụ đề, tốc độ phát và lưu tiến độ trên trình duyệt.
+
+
+**Cách xuất video:** chọn tập → bấm **Xuất MP4** dưới video → chọn 1080p hoặc 720p → **Bắt đầu xuất**. Giữ trang mở đến khi file tải xuống. File gồm hình và âm thanh ở 30 fps, tốc độ gốc; có thể xuất thử 10 giây, gắn phụ đề vào hình hoặc tải SRT/thumbnail riêng. Nên dùng Chrome/Edge mới trên máy tính.
 
 - [Mã nguồn công cụ](viewer/): `cd viewer`, `npm ci`, `npm run dev` để chạy local.
 - [Tự động triển khai](.github/workflows/motion-room-pages.yml): cập nhật `viewer/` trên nhánh `main` sẽ chạy kiểm tra và đưa bản mới lên GitHub Pages.
