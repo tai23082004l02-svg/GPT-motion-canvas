@@ -6,11 +6,10 @@ Video đầu tiên: **Why Your Credit Card Balance Barely Moves** — animation 
 
 ## Tải video và bộ bàn giao
 
-Mở [Release v1.0.0](https://github.com/tai23082004l02-svg/GPT-motion-canvas/releases/tag/v1.0.0):
-
-- [Video MP4 1080p](https://github.com/tai23082004l02-svg/GPT-motion-canvas/releases/download/v1.0.0/credit-card-explainer-1080p.mp4)
-- [Bộ đầy đủ: video, mã nguồn, phụ đề, 9 đoạn audio và storyboard](https://github.com/tai23082004l02-svg/GPT-motion-canvas/releases/download/v1.0.0/credit-card-production-kit.zip)
-- [Mã nguồn đóng gói riêng](https://github.com/tai23082004l02-svg/GPT-motion-canvas/releases/download/v1.0.0/motion-canvas-source.zip)
+- [Video MP4 1080p](https://github.com/tai23082004l02-svg/GPT-motion-canvas/raw/refs/heads/main/downloads/credit-card-explainer-1080p.mp4)
+- [Bộ đầy đủ ZIP: video, mã nguồn, phụ đề, 9 đoạn audio và storyboard](https://github.com/tai23082004l02-svg/GPT-motion-canvas/raw/refs/heads/main/downloads/credit-card-production-kit.zip)
+- [Thư mục downloads](downloads/): mở file rồi bấm **Download raw file** nếu trình duyệt chưa tự tải.
+- Mã nguồn có sẵn ngay trong repo; có thể tải bằng **Code → Download ZIP**.
 
 ![Storyboard](deliverables/storyboard.jpg)
 
