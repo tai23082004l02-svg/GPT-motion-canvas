@@ -1,0 +1,20 @@
+Motion Room media-export dependencies
+
+Mediabunny 1.62.1 and @mediabunny/aac-encoder 1.62.1
+Copyright Vanilagy and contributors. Unmodified upstream modules, bundled by Vite.
+License: Mozilla Public License 2.0 (copies accompany this file).
+Source, including the AAC worker/bridge and build instructions:
+https://github.com/Vanilagy/mediabunny
+https://www.npmjs.com/package/mediabunny/v/1.62.1
+https://www.npmjs.com/package/@mediabunny/aac-encoder/v/1.62.1
+
+The AAC extension includes a single-threaded WebAssembly build of FFmpeg's native
+AAC encoder. FFmpeg is licensed under LGPL 2.1 or later for this non-GPL build.
+License copy: FFmpeg-LGPL-2.1.txt
+FFmpeg source: https://git.ffmpeg.org/ffmpeg.git
+Upstream AAC build recipe:
+https://github.com/Vanilagy/mediabunny/tree/main/packages/aac-encoder
+The extension dynamically registers the AAC implementation only when needed.
+
+Motion Room application source and build configuration:
+https://github.com/tai23082004l02-svg/GPT-motion-canvas/tree/main/viewer
