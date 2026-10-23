@@ -1,0 +1,586 @@
+1
+00:00:00,000 --> 00:00:01,420
+The ad looks professional.
+
+2
+00:00:02,360 --> 00:00:04,200
+The person on screen sounds familiar.
+
+3
+00:00:04,920 --> 00:00:06,060
+The comments say it works.
+
+4
+00:00:06,860 --> 00:00:11,540
+Alex thinks: if this is a scam, why is a
+major platform showing it to me?
+
+5
+00:00:12,040 --> 00:00:13,800
+That question just became a lawsuit.
+
+6
+00:00:15,240 --> 00:00:19,920
+On October twenty-second, twenty
+twenty-six, Rhode Island sued Meta over
+
+7
+00:00:19,920 --> 00:00:20,800
+scam advertising.
+
+8
+00:00:21,820 --> 00:00:22,560
+According to Reuters,
+
+9
+00:00:23,260 --> 00:00:27,940
+the state alleges Meta profited from
+fraudulent ads and helped create or
+
+10
+00:00:27,940 --> 00:00:29,140
+optimize some of them.
+
+11
+00:00:29,140 --> 00:00:32,460
+Meta disputes the case and says it will
+fight it.
+
+12
+00:00:33,440 --> 00:00:38,080
+The state is seeking penalties, money back
+for consumers, and changes to the
+
+13
+00:00:38,080 --> 00:00:38,860
+company's practices.
+
+14
+00:00:39,860 --> 00:00:44,220
+Those are requests in a civil lawsuit, not
+a judgment already entered.
+
+15
+00:00:45,020 --> 00:00:49,100
+As of this episode, October twenty-third,
+these allegations remain
+
+16
+00:00:49,100 --> 00:00:49,600
+contested.
+
+17
+00:00:50,940 --> 00:00:55,440
+Meta calls the lawsuit unfounded and says
+it ignores the company's work
+
+18
+00:00:55,440 --> 00:00:56,140
+against scams.
+
+19
+00:00:57,100 --> 00:01:01,053
+In its own March announcement, Meta said
+it removed more than one hundred
+
+20
+00:01:01,053 --> 00:01:05,760
+fifty-nine million scam ads in twenty
+twenty-five and was expanding
+
+21
+00:01:05,760 --> 00:01:07,300
+advertiser verification.
+
+22
+00:01:08,720 --> 00:01:10,160
+That removal count matters.
+
+23
+00:01:10,740 --> 00:01:14,940
+But it doesn't tell you what fraction of
+scam ads were caught, or whether
+
+24
+00:01:14,940 --> 00:01:16,900
+the ad in front of Alex is safe.
+
+25
+00:01:17,660 --> 00:01:19,760
+The state challenges the system's conduct.
+
+26
+00:01:20,420 --> 00:01:22,000
+Meta points to its defenses.
+
+27
+00:01:22,900 --> 00:01:26,180
+Evidence and legal arguments will have to
+resolve the dispute.
+
+28
+00:01:27,120 --> 00:01:31,100
+One example described in Reuters'
+reporting involves ads
+
+29
+00:01:31,100 --> 00:01:35,780
+impersonating a bank executive and leading
+users toward bogus stock
+
+30
+00:01:35,780 --> 00:01:36,800
+trades on WhatsApp.
+
+31
+00:01:37,800 --> 00:01:42,180
+The state's allegation is that familiar
+names and institutions were used to
+
+32
+00:01:42,180 --> 00:01:42,840
+borrow trust.
+
+33
+00:01:43,680 --> 00:01:46,620
+It is not that the real executive endorsed
+the scheme.
+
+34
+00:01:47,740 --> 00:01:49,480
+Now pause on Alex's question.
+
+35
+00:01:50,420 --> 00:01:52,800
+A paid placement tells you you're looking
+at an advertisement.
+
+36
+00:01:52,800 --> 00:01:57,120
+It doesn't prove the seller is honest, the
+person is really
+
+37
+00:01:57,120 --> 00:02:00,160
+involved, or the promised result will
+happen.
+
+38
+00:02:00,860 --> 00:02:04,600
+A familiar platform and a trustworthy
+offer are two separate things.
+
+39
+00:02:05,840 --> 00:02:07,560
+Let's follow a fictional example.
+
+40
+00:02:08,240 --> 00:02:11,160
+This is not an actual victim or an ad from
+the lawsuit.
+
+41
+00:02:11,960 --> 00:02:15,080
+Alex sees an investment club promising
+easy profits.
+
+42
+00:02:15,960 --> 00:02:19,260
+The video features an invented expert, an
+impressive backdrop,
+
+43
+00:02:19,980 --> 00:02:21,480
+and a button marked Learn More.
+
+44
+00:02:22,120 --> 00:02:23,720
+The video looks convincing.
+
+45
+00:02:24,760 --> 00:02:29,120
+But financial regulators warn that
+scammers can impersonate public figures
+
+46
+00:02:29,120 --> 00:02:32,400
+and use AI-generated images or video.
+
+47
+00:02:33,220 --> 00:02:36,660
+Looking for a strange blink or a broken
+hand isn't enough.
+
+48
+00:02:37,400 --> 00:02:39,620
+You need a way to check the claim outside
+the clip.
+
+49
+00:02:40,640 --> 00:02:42,780
+Below it, little messages seem to agree.
+
+50
+00:02:43,520 --> 00:02:44,000
+I got paid.
+
+51
+00:02:45,000 --> 00:02:46,040
+This changed my life.
+
+52
+00:02:46,740 --> 00:02:49,240
+In our example, those accounts are part of
+the pitch.
+
+53
+00:02:49,240 --> 00:02:53,600
+A wall of praise can feel like evidence
+even when you haven't verified
+
+54
+00:02:53,600 --> 00:02:55,640
+a single person behind it.
+
+55
+00:02:56,620 --> 00:02:59,880
+Alex taps the button and is invited into a
+messaging group.
+
+56
+00:03:00,480 --> 00:03:05,080
+Suddenly there is a helpful administrator
+and a stream of successful trades.
+
+57
+00:03:06,040 --> 00:03:10,420
+California's attorney general has warned
+about social media investment ads
+
+58
+00:03:10,420 --> 00:03:14,660
+that move people into messaging apps and
+fraudulent investment schemes.
+
+59
+00:03:15,540 --> 00:03:19,940
+In the fictional group, the administrator
+offers to guide Alex through a
+
+60
+00:03:19,940 --> 00:03:20,600
+small deposit.
+
+61
+00:03:21,620 --> 00:03:22,720
+The amount feels manageable.
+
+62
+00:03:23,680 --> 00:03:26,440
+A dashboard appears, and the balance
+starts rising.
+
+63
+00:03:26,980 --> 00:03:31,080
+But a number drawn on a screen isn't
+evidence that an investment exists
+
+64
+00:03:31,080 --> 00:03:33,140
+or that money can be withdrawn.
+
+65
+00:03:34,460 --> 00:03:36,000
+Then Alex asks to withdraw.
+
+66
+00:03:36,840 --> 00:03:37,620
+A new message arrives:
+
+67
+00:03:38,600 --> 00:03:39,820
+first, pay a release fee.
+
+68
+00:03:40,660 --> 00:03:43,200
+Maybe it's called a tax or verification
+charge.
+
+69
+00:03:43,860 --> 00:03:48,440
+Regulators warn that investment scams can
+invent extra payments when people
+
+70
+00:03:48,440 --> 00:03:49,700
+try to get their money back.
+
+71
+00:03:50,180 --> 00:03:51,960
+Sending more can deepen the loss.
+
+72
+00:03:53,080 --> 00:03:54,100
+Pull the camera back.
+
+73
+00:03:54,820 --> 00:03:59,480
+The polished ad, borrowed identity,
+apparent crowd, private conversation,
+
+74
+00:03:59,480 --> 00:04:02,480
+and fake balance all supported one
+journey.
+
+75
+00:04:03,260 --> 00:04:07,300
+That is why looking only at the final
+payment can miss how trust was built
+
+76
+00:04:07,300 --> 00:04:08,340
+before the money moved.
+
+77
+00:04:09,040 --> 00:04:13,550
+The FTC says people reported losing two
+point one billion dollars
+
+78
+00:04:13,500 --> 00:04:17,720
+to scams that started on social media in
+twenty
+
+79
+00:04:17,720 --> 00:04:21,120
+twenty-five. That includes different
+platforms and different kinds of
+
+80
+00:04:21,120 --> 00:04:21,520
+contact.
+
+81
+00:04:22,420 --> 00:04:27,180
+It is not a Meta-only figure, not an
+ad-only figure, and not a court
+
+82
+00:04:27,180 --> 00:04:28,460
+finding against Meta.
+
+83
+00:04:29,580 --> 00:04:34,100
+Don't combine that dollar figure with
+Meta's ad-removal count to calculate a
+
+84
+00:04:34,100 --> 00:04:38,420
+safety score. One counts reported losses
+across social media.
+
+85
+00:04:39,200 --> 00:04:41,720
+The other counts ads the company says it
+removed.
+
+86
+00:04:42,620 --> 00:04:45,220
+Different units, different coverage,
+different questions.
+
+87
+00:04:46,120 --> 00:04:48,840
+Neither tells Alex to trust this
+particular pitch.
+
+88
+00:04:50,060 --> 00:04:51,620
+The useful questions are concrete.
+
+89
+00:04:52,540 --> 00:04:54,860
+Can a platform identify the advertiser?
+
+90
+00:04:55,340 --> 00:04:57,680
+Can it stop a removed scammer from
+returning?
+
+91
+00:04:57,680 --> 00:04:59,860
+What happens after a report?
+
+92
+00:05:00,680 --> 00:05:04,380
+Meta says it is expanding verification and
+anti-scam technology.
+
+93
+00:05:05,600 --> 00:05:09,060
+The lawsuit challenges whether its conduct
+and safeguards have been
+
+94
+00:05:09,060 --> 00:05:09,460
+adequate.
+
+95
+00:05:10,640 --> 00:05:14,000
+For Alex, the next move is outside the
+ad's little world.
+
+96
+00:05:14,700 --> 00:05:17,660
+He closes the link, looks up the
+institution independently,
+
+97
+00:05:18,720 --> 00:05:21,540
+and uses contact information from its
+official website.
+
+98
+00:05:21,540 --> 00:05:25,100
+He checks whether the person actually made
+the recommendation.
+
+99
+00:05:26,120 --> 00:05:28,300
+The ad doesn't get to supply its own
+proof.
+
+100
+00:05:29,420 --> 00:05:30,400
+Guaranteed returns,
+
+101
+00:05:31,100 --> 00:05:35,720
+a secret opportunity, or pressure to
+transfer money now are reasons to
+
+102
+00:05:35,720 --> 00:05:36,340
+slow down.
+
+103
+00:05:37,140 --> 00:05:41,000
+A real logo and an active chat group don't
+cancel those warnings.
+
+104
+00:05:41,840 --> 00:05:46,040
+If the opportunity can't survive an
+independent check, it doesn't deserve
+
+105
+00:05:46,040 --> 00:05:46,640
+your deposit.
+
+106
+00:05:47,470 --> 00:05:49,760
+If you've already paid, act promptly.
+
+107
+00:05:50,500 --> 00:05:53,740
+Contact your bank or the payment service
+and explain what happened.
+
+108
+00:05:54,420 --> 00:05:58,720
+Keep the ad, account names, messages,
+website address, and transaction
+
+109
+00:05:58,720 --> 00:06:02,980
+records. Report the account to the
+platform and the scam to the FTC.
+
+110
+00:06:04,200 --> 00:06:05,540
+Recovery is not guaranteed.
+
+111
+00:06:07,040 --> 00:06:11,040
+And watch for the second pitch: someone
+claiming they can recover everything
+
+112
+00:06:11,040 --> 00:06:12,160
+for an upfront fee.
+
+113
+00:06:12,160 --> 00:06:16,060
+The FTC warns about refund and recovery
+scams.
+
+114
+00:06:16,840 --> 00:06:20,460
+Losing money doesn't mean you should hand
+the next stranger your wallet too.
+
+115
+00:06:21,520 --> 00:06:24,640
+Back at the beginning, Alex still sees the
+polished ad.
+
+116
+00:06:25,380 --> 00:06:29,740
+This time he doesn't try to judge honesty
+from the lighting, the voice, or
+
+117
+00:06:29,740 --> 00:06:33,500
+the comment count. He asks a smaller,
+stronger question:
+
+118
+00:06:34,260 --> 00:06:37,360
+what can I verify somewhere this
+advertiser doesn't control?
+
+119
+00:06:38,120 --> 00:06:42,700
+The Rhode Island case will turn on
+evidence and the law, not how
+
+120
+00:06:42,700 --> 00:06:44,540
+persuasive a headline sounds.
+
+121
+00:06:45,240 --> 00:06:49,240
+We should watch the court process and
+Meta's responses without turning
+
+122
+00:06:49,240 --> 00:06:50,780
+allegations into a verdict.
+
+123
+00:06:51,600 --> 00:06:55,020
+The practical lesson can stand while the
+legal dispute continues.
+
+124
+00:06:56,340 --> 00:06:57,960
+A scam doesn't need to look suspicious.
+
+125
+00:06:58,940 --> 00:07:01,440
+It needs to look familiar long enough for
+the next click.
+
+126
+00:07:02,140 --> 00:07:04,000
+A paid ad can buy your attention.
+
+127
+00:07:04,620 --> 00:07:08,700
+Before it earns your money, make it earn
+your trust somewhere outside the
+
+128
+00:07:08,700 --> 00:07:08,940
+ad.
