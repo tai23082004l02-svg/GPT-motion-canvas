@@ -7,14 +7,13 @@ on:
       - '.github/workflows/motion-room-pages.yml'
   workflow_dispatch:
 permissions:
-  contents: read
+  contents: write
   pages: write
-  id-token: write
 concurrency:
   group: motion-room-pages
   cancel-in-progress: true
 jobs:
-  build:
+  publish:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -23,7 +22,6 @@ jobs:
           node-version: 22
           cache: npm
           cache-dependency-path: viewer/package-lock.json
-      - uses: actions/configure-pages@v5
       - run: npm ci
         working-directory: viewer
       - run: npm run check
@@ -32,16 +30,20 @@ jobs:
         working-directory: viewer
         env:
           VIEWER_BASE_PATH: /GPT-motion-canvas/
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: viewer/dist
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Deploy viewer
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Update the existing Pages branch
+        shell: bash
+        run: |
+          git rm -f --ignore-unmatch 'index-*.js' 'index-*.css' 'project-*.js' '_virtual_settings-*.js'
+          cp -a viewer/dist/. .
+          touch .nojekyll
+          git add index.html index-*.js index-*.css project-*.js _virtual_settings-*.js audio captions fonts images favicon.svg .nojekyll
+          if ! git diff --cached --quiet; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git commit -m 'Deploy compiled Motion Room viewer [skip ci]'
+            git push origin HEAD:main
+          fi
+      - name: Request the configured GitHub Pages build
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST "repos/${GITHUB_REPOSITORY}/pages/builds"
