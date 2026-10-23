@@ -1,0 +1,28 @@
+import {chromium} from 'playwright';
+import {spawn} from 'node:child_process';
+import fs from 'node:fs';
+const from=Number(process.argv[2]||0),to=Number(process.argv[3]||JSON.parse(fs.readFileSync('public/duration.json','utf8')).duration),fps=Number(process.argv[4]||30);
+const dest=process.argv[5]||'work/render-silent.mp4';
+fs.mkdirSync('work',{recursive:true});
+const ff=spawn('ffmpeg',['-y','-loglevel','warning','-f','image2pipe','-vcodec','mjpeg','-framerate',String(fps),'-i','pipe:0','-an','-c:v','libx264','-preset','fast','-crf','19','-pix_fmt','yuv420p',dest]);
+ff.stderr.on('data',x=>process.stderr.write(x));
+const browser=await chromium.launch({executablePath:process.env.CHROME_PATH||'/usr/bin/chromium',headless:true,args:['--no-sandbox','--disable-dev-shm-usage','--disable-gpu']});
+const page=await browser.newPage({viewport:{width:1920,height:1080}});
+await page.routeWebSocket('**', () => {});
+page.on('console',m=>{if(m.type()==='error'||m.text().includes('MCLOG'))console.log(m.text())});
+page.on('pageerror',e=>console.error(e));
+let count=0;
+await page.exposeFunction('sendFrame',async(data,frame)=>{
+ const b=Buffer.from(data,'base64');
+ if(!ff.stdin.write(b)) await new Promise(r=>ff.stdin.once('drain',r));
+ if(++count%300===0)console.log('FRAME',frame,'TIME',new Date().toISOString());
+});
+await page.goto('http://localhost:9001/render.html');
+await page.waitForFunction(()=>window.ready,{timeout:120000});
+console.log('READY');
+await page.evaluate(([a,b,c])=>window.startRender(a,b,c),[from,to,fps]);
+console.log('RESULT',await page.evaluate(()=>window.renderResult));
+ff.stdin.end();
+await new Promise(r=>ff.on('close',r));
+await browser.close();
+console.log('SAVED',dest,count);

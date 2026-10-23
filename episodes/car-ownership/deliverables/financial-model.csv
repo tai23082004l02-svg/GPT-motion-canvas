@@ -1,0 +1,11 @@
+item,amount_usd,note
+depreciation,15000.00000000,Five-year ownership cost component
+interest,5077.94163537,Five-year ownership cost component
+tax,1800.00000000,Five-year ownership cost component
+insurance,12000.00000000,Five-year ownership cost component
+fuel,8400.00000000,Five-year ownership cost component
+maintenance,6000.00000000,Five-year ownership cost component
+registration,1250.00000000,Five-year ownership cost component
+total_cost,49527.94163537,Sum of components; no double counting
+monthly_cash,995.46569392,Excludes upfront payment and tax
+monthly_ownership_average,825.46569392,Includes resale recovery

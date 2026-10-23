@@ -1,0 +1,23 @@
+{
+  "price": 30000,
+  "down_payment": 3000,
+  "principal": 27000,
+  "apr": 0.07,
+  "months": 60,
+  "payment": 534.6323605894357,
+  "interest": 5077.941635366144,
+  "costs": {
+    "depreciation": 15000,
+    "interest": 5077.941635366144,
+    "tax": 1800,
+    "insurance": 12000,
+    "fuel": 8400,
+    "maintenance": 6000,
+    "registration": 1250
+  },
+  "total_cost": 49527.94163536614,
+  "cash_out": 64527.94163536614,
+  "resale": 15000,
+  "monthly_average": 825.4656939227691,
+  "monthly_cash": 995.4656939227691
+}

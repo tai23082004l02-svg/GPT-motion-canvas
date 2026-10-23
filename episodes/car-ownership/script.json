@@ -1,0 +1,288 @@
+[
+  {
+    "id": 1,
+    "kind": "dealership",
+    "title": "THE $30,000 CAR",
+    "narration": "Alex just bought a thirty-thousand-dollar car. Nice color. Decent mileage. And a monthly payment that seems manageable. So, what does this car actually cost?",
+    "chapter": "The price tag",
+    "mood": "happy",
+    "amount": 30000
+  },
+  {
+    "id": 2,
+    "kind": "surprise",
+    "title": "THE PRICE TAG IS ONLY THE START",
+    "narration": "If your answer is thirty thousand dollars, the car would like a word. Because the price on the windshield is only the beginning of the story.",
+    "mood": "surprised",
+    "amount": 30000
+  },
+  {
+    "id": 3,
+    "kind": "road",
+    "title": "FIVE YEARS. ONE CAR. EVERY COST.",
+    "narration": "We're going to follow Alex for five years. Through the loan, the gas station, the insurance bill, and the repair shop. Then we'll sell the car and count what ownership really cost.",
+    "chapter": "The five-year plan",
+    "mood": "happy"
+  },
+  {
+    "id": 4,
+    "kind": "assumptions",
+    "title": "ONE EXAMPLE, NOT A NATIONAL AVERAGE",
+    "narration": "This is an illustrative budget, not a quote or a national average. Your state, your driving, your insurance, and the car you choose can change every number. The useful part is the method.",
+    "mood": "neutral"
+  },
+  {
+    "id": 5,
+    "kind": "dealership",
+    "title": "A PAYMENT THAT LOOKS AFFORDABLE",
+    "narration": "Back at the dealership, Alex sees the number that gets all the attention: about five hundred thirty-five dollars a month. That number is real. It just doesn't describe the whole car budget.",
+    "amount": 535,
+    "mood": "happy",
+    "variant": "payment"
+  },
+  {
+    "id": 6,
+    "kind": "loan",
+    "title": "HERE IS THE DEAL",
+    "narration": "The purchase price is thirty thousand dollars. Alex puts three thousand down and borrows the remaining twenty-seven thousand, at seven percent A P R, for sixty months.",
+    "chapter": "The loan",
+    "amount": 27000,
+    "mood": "neutral"
+  },
+  {
+    "id": 7,
+    "kind": "payment",
+    "title": "ABOUT $535 A MONTH",
+    "narration": "With a standard fixed-rate loan, that works out to about five hundred thirty-five dollars a month. Over five years, the loan payments add up to roughly thirty-two thousand seventy-eight dollars.",
+    "amount": 535,
+    "mood": "neutral"
+  },
+  {
+    "id": 8,
+    "kind": "interest",
+    "title": "BORROW $27,000. REPAY ABOUT $32,078.",
+    "narration": "Subtract the twenty-seven thousand borrowed, and about five thousand seventy-eight dollars is interest. That's the price of financing in this example. It doesn't buy extra car. It pays for borrowing the money.",
+    "amount": 5078,
+    "mood": "concerned"
+  },
+  {
+    "id": 10,
+    "kind": "tax",
+    "title": "THE FIRST EXTRA BILL",
+    "narration": "Before Alex even leaves, there's sales tax. Let's assume six percent, or eighteen hundred dollars, paid upfront. We'll also budget two hundred fifty dollars a year for registration and related recurring fees.",
+    "chapter": "The costs that follow",
+    "amount": 1800,
+    "mood": "surprised"
+  },
+  {
+    "id": 11,
+    "kind": "receipt",
+    "title": "UPFRONT CASH: $4,800",
+    "narration": "That means the three-thousand-dollar down payment isn't the only upfront cash. Add the assumed sales tax, and Alex needs forty-eight hundred dollars before the regular monthly bills even begin.",
+    "amount": 4800,
+    "mood": "concerned"
+  },
+  {
+    "id": 12,
+    "kind": "insurance",
+    "title": "THE CAR HAS A SUBSCRIPTION",
+    "narration": "First stop: insurance. We're giving Alex an assumed quote of two hundred dollars a month. That's twenty-four hundred a year, or twelve thousand dollars across five years, if the premium stays the same.",
+    "amount": 200,
+    "mood": "surprised"
+  },
+  {
+    "id": 13,
+    "kind": "shield",
+    "title": "GET THE QUOTE BEFORE YOU BUY",
+    "narration": "Insurance can vary dramatically by driver, location, coverage, and vehicle. A car with an affordable payment can come with an uncomfortable premium. Get a quote for the actual model before signing.",
+    "mood": "thinking"
+  },
+  {
+    "id": 14,
+    "kind": "gas",
+    "title": "NEXT STOP: THE GAS STATION",
+    "narration": "Alex drives twelve hundred miles each month. At thirty miles per gallon, that's forty gallons. Assume gas averages three dollars and fifty cents a gallon, and fuel costs one hundred forty dollars a month.",
+    "amount": 140,
+    "mood": "neutral"
+  },
+  {
+    "id": 15,
+    "kind": "fuelmath",
+    "title": "$140 A MONTH BECOMES $8,400",
+    "narration": "Keep those assumptions for sixty months, and the fuel total is eighty-four hundred dollars. The gas pump doesn't care that the car payment already came out of Alex's account this morning.",
+    "amount": 8400,
+    "mood": "concerned"
+  },
+  {
+    "id": 16,
+    "kind": "garage",
+    "title": "THE CAR NEEDS MORE THAN GAS",
+    "narration": "Then come oil changes, tires, maintenance, and repairs. We'll budget one hundred dollars a month, and assume six thousand dollars is actually spent over five years. Some months are quiet. Other months, the car makes a very expensive noise.",
+    "amount": 100,
+    "mood": "surprised"
+  },
+  {
+    "id": 18,
+    "kind": "monthly",
+    "title": "THE MONTHLY BILLS ADD UP",
+    "narration": "Now look at Alex's monthly cash budget. About five hundred thirty-five for the loan. Two hundred for insurance. One hundred forty for fuel. One hundred for maintenance. Plus roughly twenty-one for annual registration.",
+    "chapter": "The monthly reality",
+    "amount": 995,
+    "mood": "concerned"
+  },
+  {
+    "id": 19,
+    "kind": "monthlytotal",
+    "title": "ABOUT $995 A MONTH",
+    "narration": "That's about nine hundred ninety-five dollars a month, before the upfront down payment and sales tax. Suddenly, the five-hundred-thirty-five-dollar payment looks more like one piece of a much bigger puzzle.",
+    "amount": 995,
+    "mood": "surprised"
+  },
+  {
+    "id": 21,
+    "kind": "calendar",
+    "title": "FIVE YEARS LATER",
+    "narration": "Fast forward five years. Alex has made the payments and kept the car running. The loan is gone. But before we total the cost, there's one more number we need: what the car is worth now.",
+    "chapter": "The value you keep",
+    "mood": "happy"
+  },
+  {
+    "id": 22,
+    "kind": "depreciation",
+    "title": "THE CAR IS NOW WORTH $15,000",
+    "narration": "Let's assume Alex can sell it for fifteen thousand dollars. That's a scenario assumption, not a resale forecast. Some cars hold value better. Others lose more, especially with higher mileage or poor condition.",
+    "amount": 15000,
+    "mood": "thinking"
+  },
+  {
+    "id": 23,
+    "kind": "valuefall",
+    "title": "$30,000 \u2192 $15,000",
+    "narration": "The difference between the thirty-thousand-dollar purchase price and the fifteen-thousand-dollar sale price is fifteen thousand dollars. That's depreciation: the value Alex used up while owning the car.",
+    "amount": 15000,
+    "mood": "concerned"
+  },
+  {
+    "id": 25,
+    "kind": "nodouble",
+    "title": "COUNT THE PURCHASE ONLY ONCE",
+    "narration": "Here's where car-cost math often goes wrong. You cannot add every loan payment and then add depreciation on top. The principal in the payments already pays for the car. Counting both would count that purchase twice.",
+    "chapter": "The true total",
+    "mood": "thinking"
+  },
+  {
+    "id": 26,
+    "kind": "cashout",
+    "title": "FIRST, COUNT THE CASH THAT LEFT",
+    "narration": "One clean method is to track cash. Add the down payment, all sixty loan payments, sales tax, insurance, fuel, maintenance, and registration. For Alex, that's about sixty-four thousand five hundred twenty-eight dollars paid out.",
+    "amount": 64528,
+    "mood": "concerned"
+  },
+  {
+    "id": 27,
+    "kind": "resale",
+    "title": "THEN SUBTRACT WHAT COMES BACK",
+    "narration": "Now subtract the fifteen thousand dollars Alex receives from selling the car. That money comes back. The remaining cost is about forty-nine thousand five hundred twenty-eight dollars for five years of ownership.",
+    "amount": 49528,
+    "mood": "surprised"
+  },
+  {
+    "id": 28,
+    "kind": "total",
+    "title": "THE $30,000 CAR COST ABOUT $49,500",
+    "narration": "Round it, and this thirty-thousand-dollar car cost about forty-nine thousand five hundred dollars to own for five years. That's about eight hundred twenty-five dollars a month, averaged across the full period.",
+    "amount": 49500,
+    "mood": "surprised"
+  },
+  {
+    "id": 29,
+    "kind": "whyaverage",
+    "title": "AVERAGE COST IS NOT THE MONTHLY BILL",
+    "narration": "Why is that lower than the roughly nine-hundred-ninety-five-dollar monthly cash budget? Because the ownership average accounts for upfront costs and the car's resale value. Cash flow and total ownership cost answer different questions.",
+    "amount": 825,
+    "mood": "thinking"
+  },
+  {
+    "id": 30,
+    "kind": "ledger",
+    "title": "ANOTHER WAY TO REACH THE SAME TOTAL",
+    "narration": "You can also add depreciation, interest, and the operating costs directly. Fifteen thousand in lost value. About five thousand seventy-eight in interest. Then tax, insurance, fuel, maintenance, and registration. Same answer. No double counting.",
+    "amount": 49528,
+    "mood": "neutral"
+  },
+  {
+    "id": 32,
+    "kind": "sensitivity",
+    "title": "SMALL CHANGES BECOME BIG NUMBERS",
+    "narration": "An insurance quote that's one hundred dollars more per month adds six thousand dollars over five years. A resale price three thousand dollars lower adds three thousand to ownership cost. Small assumptions deserve a second look.",
+    "chapter": "How Alex can use this",
+    "amount": 6000,
+    "mood": "surprised"
+  },
+  {
+    "id": 33,
+    "kind": "choices",
+    "title": "SO, SHOULD ALEX SKIP THE CAR?",
+    "narration": "Does that mean Alex shouldn't own a car? No. A car can make work possible, save time, and connect you to people you care about. Knowing the cost helps you decide what that access is worth.",
+    "mood": "happy"
+  },
+  {
+    "id": 34,
+    "kind": "comparecars",
+    "title": "COMPARE MORE THAN THE STICKER PRICE",
+    "narration": "It also makes comparisons fairer. A cheaper car may need more repairs. A newer car may lose more value. An electric car changes fuel and charging costs. The winner depends on the full set of assumptions.",
+    "mood": "thinking"
+  },
+  {
+    "id": 35,
+    "kind": "used",
+    "title": "WHAT IF THE CAR COST $20,000?",
+    "narration": "For example, a twenty-thousand-dollar car, with the same three thousand down, seven percent rate, and sixty-month term, has a payment around three hundred thirty-seven dollars. That's roughly one hundred ninety-eight less each month.",
+    "amount": 337,
+    "mood": "happy"
+  },
+  {
+    "id": 36,
+    "kind": "tradeoff",
+    "title": "A LOWER PAYMENT IS A STARTING POINT",
+    "narration": "That lower payment is useful breathing room. It isn't a complete comparison yet. Alex still needs estimates for insurance, repairs, fuel, and resale value. Run the same five-year calculation for both cars.",
+    "mood": "thinking"
+  },
+  {
+    "id": 37,
+    "kind": "checklist",
+    "title": "BEFORE YOU SIGN: GET THE REAL NUMBERS",
+    "narration": "Before signing, get the out-the-door price, the full loan terms, and an insurance quote. Estimate your actual mileage. Budget for maintenance. Then choose a reasonable ownership period and a conservative resale assumption.",
+    "chapter": "Before you buy",
+    "mood": "neutral"
+  },
+  {
+    "id": 38,
+    "kind": "twobudgets",
+    "title": "ASK TWO DIFFERENT QUESTIONS",
+    "narration": "Make two budgets. First: can I handle the cash payments, including the upfront money and occasional large bills? Second: what will owning this car cost over the years I expect to keep it?",
+    "mood": "thinking"
+  },
+  {
+    "id": 40,
+    "kind": "keep",
+    "title": "PAID OFF IS NOT THE SAME AS FREE",
+    "narration": "Keeping a paid-off car can reduce your budget pressure, too. But keep allowing for maintenance and value loss. A zero-dollar loan payment feels great. It doesn't turn the rest of the dashboard into zeroes.",
+    "mood": "happy"
+  },
+  {
+    "id": 41,
+    "kind": "ending",
+    "title": "A BETTER QUESTION THAN \u201cCAN I AFFORD IT?\u201d",
+    "narration": "Alex still likes the blue car. Now, though, the decision comes with open eyes. Instead of asking only, can I afford this payment, Alex asks: what will this car really cost me to own?",
+    "chapter": "The takeaway",
+    "mood": "happy"
+  },
+  {
+    "id": 42,
+    "kind": "final",
+    "title": "UNDERSTAND THE WHOLE BILL.",
+    "narration": "Before your next test drive, build the whole budget. Because the number on the windshield tells you what you're buying. The full cost tells you what you're committing to.",
+    "mood": "happy"
+  }
+]
