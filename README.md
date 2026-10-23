@@ -1,5 +1,15 @@
 # GPT Motion Canvas
 
+## Phòng xem online
+
+**[Mở Motion Room](https://tai23082004l02-svg.github.io/GPT-motion-canvas/)** — xem hoạt hình trực tiếp, không tải hay xuất MP4. Có phát/dừng, tua cảnh, âm thanh đồng bộ, phụ đề, tốc độ phát và lưu tiến độ trên trình duyệt.
+
+- [Mở môi trường Codespaces](https://codespaces.new/tai23082004l02-svg/GPT-motion-canvas?quickstart=1): cài dependency và khởi động viewer tự động; mở cổng **9010 / Motion Room** ở tab Ports nếu chưa tự mở.
+- [Mã nguồn công cụ](viewer/): `cd viewer`, `npm ci`, `npm run dev` để chạy local.
+- [Tự động triển khai](.github/workflows/motion-room-pages.yml): cập nhật `viewer/` trên nhánh `main` sẽ chạy kiểm tra và đưa bản mới lên GitHub Pages.
+
+Alex trong phòng xem đã được giữ ổn định đầu/cổ theo góp ý. Các file MP4 cũ vẫn nằm trong mục tải bên dưới; trình xem không dùng chúng.
+
 ## Tập 002 — mới nhất
 
 **Your $30,000 Car Costs More Than You Think** — hoạt hình 2D với Alex, thợ máy, xe và bối cảnh chuyển động. Giọng **Kokoro Michael**, nhạc nền và hiệu ứng âm thanh riêng.

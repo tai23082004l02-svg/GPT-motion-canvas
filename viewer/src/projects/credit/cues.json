@@ -1,0 +1,817 @@
+[
+  {
+    "start": 0,
+    "chapter": "The question",
+    "title": "You paid. So why is it still there?",
+    "type": "phone",
+    "a": "$5,000",
+    "b": "PAYMENT SENT: $200",
+    "big": "$200",
+    "label": "Paid on time",
+    "end": 12.2
+  },
+  {
+    "start": 12.2,
+    "chapter": "The question",
+    "title": "A $200 payment. Only $100 of progress.",
+    "type": "phone",
+    "a": "\u2248 $4,900",
+    "b": "PREVIOUS BALANCE: $5,000",
+    "big": "\u2248 $100",
+    "label": "Less debt",
+    "note": "Where did the other $100 go?",
+    "end": 22.92
+  },
+  {
+    "start": 22.92,
+    "chapter": "The hidden cost",
+    "title": "Meet the cost of carrying a balance.",
+    "type": "hero",
+    "big": "INTEREST",
+    "label": "Your balance \u00d7 your rate \u00d7 time",
+    "accent": "orange",
+    "end": 33.8
+  },
+  {
+    "start": 33.8,
+    "chapter": "The example",
+    "title": "Let\u2019s make the math visible.",
+    "type": "equation",
+    "items": [
+      {
+        "value": "$5,000",
+        "label": "Starting balance",
+        "color": null,
+        "n": 0
+      },
+      {
+        "value": "24%",
+        "label": "Annual percentage rate",
+        "color": "orange",
+        "n": 0
+      }
+    ],
+    "ops": [
+      "at"
+    ],
+    "note": "A simplified example, with no new purchases",
+    "end": 47.74
+  },
+  {
+    "start": 47.74,
+    "chapter": "The example",
+    "title": "From an annual rate to a monthly estimate.",
+    "type": "equation",
+    "items": [
+      {
+        "value": "24%",
+        "label": "APR",
+        "color": "orange",
+        "n": 0
+      },
+      {
+        "value": "12",
+        "label": "Months per year",
+        "color": null,
+        "n": 0
+      },
+      {
+        "value": "\u2248 2%",
+        "label": "Monthly rate",
+        "color": "orange",
+        "n": 0
+      }
+    ],
+    "ops": [
+      "\u00f7",
+      "="
+    ],
+    "end": 54.7
+  },
+  {
+    "start": 54.7,
+    "chapter": "The example",
+    "title": "One month can cost about $100.",
+    "type": "equation",
+    "items": [
+      {
+        "value": "$5,000",
+        "label": "Balance",
+        "color": null,
+        "n": 0
+      },
+      {
+        "value": "2%",
+        "label": "Monthly estimate",
+        "color": "orange",
+        "n": 0
+      },
+      {
+        "value": "$100",
+        "label": "Interest",
+        "color": "orange",
+        "n": 0
+      }
+    ],
+    "ops": [
+      "\u00d7",
+      "="
+    ],
+    "end": 66.1
+  },
+  {
+    "start": 66.1,
+    "chapter": "A useful detail",
+    "title": "Real cards usually calculate interest daily.",
+    "type": "flow",
+    "items": [
+      {
+        "value": "BALANCE",
+        "label": "Across the billing cycle",
+        "color": null,
+        "n": 0
+      },
+      {
+        "value": "TIMING",
+        "label": "When payments arrive",
+        "color": null,
+        "n": 0
+      },
+      {
+        "value": "INTEREST",
+        "label": "Your actual charge",
+        "color": "orange",
+        "n": 0
+      }
+    ],
+    "note": "The monthly model is an illustration, not an exact bill.",
+    "end": 78.08
+  },
+  {
+    "start": 78.08,
+    "chapter": "Follow the money",
+    "title": "Start with the balance. Add the interest.",
+    "type": "equation",
+    "items": [
+      {
+        "value": "$5,000",
+        "label": "Starting balance",
+        "color": null,
+        "n": 0
+      },
+      {
+        "value": "+$100",
+        "label": "Interest",
+        "color": "orange",
+        "n": 0
+      },
+      {
+        "value": "$5,100",
+        "label": "Before payment",
+        "color": null,
+        "n": 0
+      }
+    ],
+    "ops": [
+      "\u2192",
+      "="
+    ],
+    "end": 88
+  },
+  {
+    "start": 88,
+    "chapter": "Follow the money",
+    "title": "Then subtract your payment.",
+    "type": "equation",
+    "items": [
+      {
+        "value": "$5,100",
+        "label": "Balance + interest",
+        "color": null,
+        "n": 0
+      },
+      {
+        "value": "\u2212$200",
+        "label": "Payment",
+        "color": "mint",
+        "n": 0
+      },
+      {
+        "value": "$4,900",
+        "label": "New balance",
+        "color": null,
+        "n": 0
+      }
+    ],
+    "ops": [
+      "\u2192",
+      "="
+    ],
+    "end": 95.3
+  },
+  {
+    "start": 95.3,
+    "chapter": "Follow the money",
+    "title": "Your payment does two jobs.",
+    "type": "split",
+    "big": "$200",
+    "label": "TOTAL PAYMENT",
+    "a": "$100",
+    "b": "$100",
+    "left": "Covers interest",
+    "right": "Reduces debt",
+    "end": 108.5
+  },
+  {
+    "start": 108.5,
+    "chapter": "The distinction",
+    "title": "A payment is not the same as progress.",
+    "type": "compare",
+    "left": {
+      "label": "MONEY YOU SENT",
+      "big": "$200",
+      "note": "Your payment"
+    },
+    "right": {
+      "label": "LESS DEBT",
+      "big": "$100",
+      "note": "Your progress"
+    },
+    "end": 113.86
+  },
+  {
+    "start": 113.86,
+    "chapter": "The way forward",
+    "title": "Yes, the balance can go down.",
+    "type": "flow",
+    "items": [
+      {
+        "value": "STOP",
+        "label": "Adding purchases",
+        "color": null,
+        "n": 0
+      },
+      {
+        "value": "$200",
+        "label": "Keep the payment",
+        "color": null,
+        "n": 0
+      },
+      {
+        "value": "\u2193 DEBT",
+        "label": "Balance can fall",
+        "color": null,
+        "n": 0
+      }
+    ],
+    "end": 127.7
+  },
+  {
+    "start": 127.7,
+    "chapter": "The way forward",
+    "title": "Less balance. Less interest.",
+    "type": "equation",
+    "items": [
+      {
+        "value": "$4,900",
+        "label": "Lower balance",
+        "color": null,
+        "n": 0
+      },
+      {
+        "value": "2%",
+        "label": "Monthly estimate",
+        "color": "orange",
+        "n": 0
+      },
+      {
+        "value": "$98",
+        "label": "Next month\u2019s interest",
+        "color": "orange",
+        "n": 0
+      }
+    ],
+    "ops": [
+      "\u00d7",
+      "="
+    ],
+    "end": 139.38
+  },
+  {
+    "start": 139.38,
+    "chapter": "The way forward",
+    "title": "The same payment starts working harder.",
+    "type": "compare",
+    "left": {
+      "label": "FIRST MONTH",
+      "big": "$100",
+      "note": "Debt reduction",
+      "sub": "$200 payment \u2212 $100 interest"
+    },
+    "right": {
+      "label": "NEXT MONTH",
+      "big": "$102",
+      "note": "Debt reduction",
+      "sub": "$200 payment \u2212 $98 interest"
+    },
+    "end": 148.3
+  },
+  {
+    "start": 148.3,
+    "chapter": "The way forward",
+    "title": "Over time, the split shifts in your favor.",
+    "type": "bars",
+    "items": [
+      {
+        "value": "$200",
+        "label": "Payment",
+        "color": "mint",
+        "n": 200
+      },
+      {
+        "value": "$98",
+        "label": "Interest",
+        "color": "orange",
+        "n": 98
+      },
+      {
+        "value": "$102",
+        "label": "Debt reduced",
+        "color": "mint",
+        "n": 102
+      }
+    ],
+    "note": "No new purchases \u2022 same payment \u2022 simplified month two",
+    "end": 155.86
+  },
+  {
+    "start": 155.86,
+    "chapter": "New spending",
+    "title": "Then life happens.",
+    "type": "hero",
+    "big": "LIFE HAPPENS.",
+    "label": "Groceries. Gas. One more subscription.",
+    "end": 166.48
+  },
+  {
+    "start": 166.48,
+    "chapter": "New spending",
+    "title": "Small purchases add up.",
+    "type": "equation",
+    "items": [
+      {
+        "value": "$70",
+        "label": "Groceries",
+        "color": null,
+        "n": 0
+      },
+      {
+        "value": "$30",
+        "label": "Gas",
+        "color": null,
+        "n": 0
+      },
+      {
+        "value": "$20",
+        "label": "Subscription",
+        "color": "orange",
+        "n": 0
+      }
+    ],
+    "ops": [
+      "+",
+      "+"
+    ],
+    "note": "$120 in new spending",
+    "end": 179.64
+  },
+  {
+    "start": 179.64,
+    "chapter": "New spending",
+    "title": "You paid down $100. Then added $120.",
+    "type": "compare",
+    "left": {
+      "label": "OLD DEBT REDUCED",
+      "big": "\u2212$100",
+      "note": "After interest"
+    },
+    "right": {
+      "label": "NEW PURCHASES",
+      "big": "+$120",
+      "note": "Added to the balance"
+    },
+    "end": 189.78
+  },
+  {
+    "start": 189.78,
+    "chapter": "New spending",
+    "title": "Paid on time. Still moving backward.",
+    "type": "phone",
+    "a": "\u2248 $5,020",
+    "b": "PAYMENT SENT: $200",
+    "big": "+$20",
+    "label": "More debt than before",
+    "note": "Illustrative first-month arithmetic",
+    "end": 196.72
+  },
+  {
+    "start": 196.72,
+    "chapter": "The treadmill",
+    "title": "The treadmill effect.",
+    "type": "cycle",
+    "items": [
+      {
+        "value": "$200",
+        "label": "Payment sent",
+        "color": null,
+        "n": 0
+      },
+      {
+        "value": "\u2212$100",
+        "label": "Debt reduced",
+        "color": null,
+        "n": 0
+      },
+      {
+        "value": "+$120",
+        "label": "New purchases",
+        "color": null,
+        "n": 0
+      },
+      {
+        "value": "$5,020",
+        "label": "Balance after the cycle",
+        "color": null,
+        "n": 0
+      }
+    ],
+    "end": 208.48
+  },
+  {
+    "start": 208.48,
+    "chapter": "Minimum payments",
+    "title": "Small can feel manageable.",
+    "type": "hero",
+    "big": "THE MINIMUM",
+    "label": "Paying on time helps keep the account current.",
+    "accent": "orange",
+    "end": 223.22
+  },
+  {
+    "start": 223.22,
+    "chapter": "Minimum payments",
+    "title": "Current does not mean paid off quickly.",
+    "type": "flow",
+    "items": [
+      {
+        "value": "%",
+        "label": "Share of balance",
+        "color": null,
+        "n": 0
+      },
+      {
+        "value": "+",
+        "label": "Interest and fees",
+        "color": "orange",
+        "n": 0
+      },
+      {
+        "value": "$",
+        "label": "Minimum dollar amount",
+        "color": null,
+        "n": 0
+      }
+    ],
+    "note": "Minimum payment formulas vary by card issuer.",
+    "end": 238.84
+  },
+  {
+    "start": 238.84,
+    "chapter": "Minimum payments",
+    "title": "The minimum can shrink with the balance.",
+    "type": "bars",
+    "items": [
+      {
+        "value": "HIGHER",
+        "label": "Balance",
+        "color": "mint",
+        "n": 200
+      },
+      {
+        "value": "LOWER",
+        "label": "Required minimum",
+        "color": "orange",
+        "n": 80
+      }
+    ],
+    "note": "Conceptual illustration \u2022 not a specific issuer\u2019s formula",
+    "end": 247.3
+  },
+  {
+    "start": 247.3,
+    "chapter": "Minimum payments",
+    "title": "Smaller payments can mean a longer road.",
+    "type": "hero",
+    "big": "SMALLER STEPS",
+    "label": "Less paid each month can stretch repayment.",
+    "accent": "orange",
+    "end": 253.92
+  },
+  {
+    "start": 253.92,
+    "chapter": "The shrinking steps",
+    "title": "Imagine walking toward an exit.",
+    "type": "steps",
+    "big": "THE EXIT",
+    "label": "is still ahead",
+    "note": "Each smaller step makes the journey take longer.",
+    "end": 271.22
+  },
+  {
+    "start": 271.22,
+    "chapter": "A fixed payment",
+    "title": "Keep the payment steady when you can.",
+    "type": "compare",
+    "left": {
+      "label": "DECLINING PAYMENT",
+      "big": "\u2193",
+      "note": "Smaller steps over time"
+    },
+    "right": {
+      "label": "FIXED PAYMENT",
+      "big": "$200",
+      "note": "More can go toward debt",
+      "sub": "As interest falls; no new purchases"
+    },
+    "end": 287.72
+  },
+  {
+    "start": 287.72,
+    "chapter": "Grace periods",
+    "title": "New purchases can cost more than expected.",
+    "type": "hero",
+    "big": "THE GRACE PERIOD",
+    "label": "Eligibility changes how purchase interest works.",
+    "accent": "orange",
+    "end": 296.4
+  },
+  {
+    "start": 296.4,
+    "chapter": "Grace periods",
+    "title": "Paying in full can protect the grace period.",
+    "type": "flow",
+    "items": [
+      {
+        "value": "FULL",
+        "label": "Statement balance",
+        "color": null,
+        "n": 0
+      },
+      {
+        "value": "DUE DATE",
+        "label": "Pay on time",
+        "color": null,
+        "n": 0
+      },
+      {
+        "value": "AVOID",
+        "label": "Purchase interest",
+        "color": null,
+        "n": 0
+      }
+    ],
+    "note": "When you qualify for the purchase grace period.",
+    "end": 310.7
+  },
+  {
+    "start": 310.7,
+    "chapter": "Grace periods",
+    "title": "Carrying a balance can change the rules.",
+    "type": "flow",
+    "items": [
+      {
+        "value": "BALANCE",
+        "label": "Carried forward",
+        "color": null,
+        "n": 0
+      },
+      {
+        "value": "NEW BUY",
+        "label": "Transaction date",
+        "color": "orange",
+        "n": 0
+      },
+      {
+        "value": "INTEREST",
+        "label": "May start immediately",
+        "color": "orange",
+        "n": 0
+      }
+    ],
+    "note": "Grace period rules depend on your card\u2019s terms.",
+    "end": 323.42
+  },
+  {
+    "start": 323.42,
+    "chapter": "Grace periods",
+    "title": "New spending makes the climb harder.",
+    "type": "cycle",
+    "items": [
+      {
+        "value": "OLD DEBT",
+        "label": "Balance carried",
+        "color": null,
+        "n": 0
+      },
+      {
+        "value": "NEW BUY",
+        "label": "Everyday spending",
+        "color": null,
+        "n": 0
+      },
+      {
+        "value": "INTEREST",
+        "label": "May accrue sooner",
+        "color": null,
+        "n": 0
+      },
+      {
+        "value": "MORE DEBT",
+        "label": "Harder to pay down",
+        "color": null,
+        "n": 0
+      }
+    ],
+    "end": 331.56
+  },
+  {
+    "start": 331.56,
+    "chapter": "What helps \u00b7 01",
+    "title": "Separate old debt from new expenses.",
+    "type": "compare",
+    "left": {
+      "label": "PAY DOWN",
+      "big": "OLD DEBT",
+      "note": "Track the balance falling"
+    },
+    "right": {
+      "label": "PLAN FOR",
+      "big": "NEW COSTS",
+      "note": "As your situation allows"
+    },
+    "end": 349.48
+  },
+  {
+    "start": 349.48,
+    "chapter": "What helps \u00b7 02",
+    "title": "Check the APR.",
+    "type": "compare",
+    "left": {
+      "label": "LOWER APR",
+      "big": "12%",
+      "note": "\u2248 $50 monthly interest",
+      "sub": "On $5,000; simplified estimate"
+    },
+    "right": {
+      "label": "HIGHER APR",
+      "big": "30%",
+      "note": "\u2248 $125 monthly interest",
+      "sub": "On $5,000; simplified estimate"
+    },
+    "end": 360.56
+  },
+  {
+    "start": 360.56,
+    "chapter": "What helps \u00b7 02",
+    "title": "Same payment. Different progress.",
+    "type": "compare",
+    "left": {
+      "label": "$200 PAYMENT \u00b7 12% APR",
+      "big": "\u2248 $150",
+      "note": "Debt reduced this month"
+    },
+    "right": {
+      "label": "$200 PAYMENT \u00b7 30% APR",
+      "big": "\u2248 $75",
+      "note": "Debt reduced this month"
+    },
+    "end": 366.24
+  },
+  {
+    "start": 366.24,
+    "chapter": "What helps \u00b7 03",
+    "title": "Read the minimum payment warning.",
+    "type": "statement",
+    "a": "How long with minimum payments?",
+    "b": "Look for the repayment estimate.",
+    "note": "Assumes no additional charges",
+    "end": 380.28
+  },
+  {
+    "start": 380.28,
+    "chapter": "What helps \u00b7 03",
+    "title": "Look for the three-year payment amount.",
+    "type": "statement",
+    "a": "What would pay this off in about 3 years?",
+    "b": "Compare that amount with the minimum.",
+    "note": "Your statement typically shows this comparison.",
+    "end": 392.92
+  },
+  {
+    "start": 392.92,
+    "chapter": "What helps \u00b7 04",
+    "title": "See what an extra payment can do.",
+    "type": "hero",
+    "big": "THE EXTRA $100",
+    "label": "A bigger payment can change the split.",
+    "end": 399.82
+  },
+  {
+    "start": 399.82,
+    "chapter": "What helps \u00b7 04",
+    "title": "Compare the first month.",
+    "type": "compare",
+    "left": {
+      "label": "$200 PAYMENT",
+      "big": "$100",
+      "note": "Debt reduced",
+      "sub": "After \u2248 $100 interest"
+    },
+    "right": {
+      "label": "$300 PAYMENT",
+      "big": "$200",
+      "note": "Debt reduced",
+      "sub": "After \u2248 $100 interest"
+    },
+    "end": 414.06
+  },
+  {
+    "start": 414.06,
+    "chapter": "What helps \u00b7 04",
+    "title": "50% more paid. Twice the debt reduction.",
+    "type": "equation",
+    "items": [
+      {
+        "value": "+50%",
+        "label": "Payment increase",
+        "color": null,
+        "n": 0
+      },
+      {
+        "value": "2\u00d7",
+        "label": "Debt reduction",
+        "color": "mint",
+        "n": 0
+      },
+      {
+        "value": "LESS",
+        "label": "Future interest",
+        "color": "mint",
+        "n": 0
+      }
+    ],
+    "ops": [
+      "\u2192",
+      "\u2192"
+    ],
+    "note": "For this simplified first-month example",
+    "end": 426.94
+  },
+  {
+    "start": 426.94,
+    "chapter": "When money is tight",
+    "title": "Start with what your budget allows.",
+    "type": "hero",
+    "big": "NEED SOME ROOM?",
+    "label": "Contact your card issuer early.",
+    "note": "Ask about hardship options and their terms.",
+    "end": 444.2
+  },
+  {
+    "start": 444.2,
+    "chapter": "The number that matters",
+    "title": "Measure the progress.",
+    "type": "compare",
+    "left": {
+      "label": "YOUR PAYMENT",
+      "big": "SENT",
+      "note": "Money leaving your account"
+    },
+    "right": {
+      "label": "YOUR PROGRESS",
+      "big": "LESS OWED",
+      "note": "The balance actually falling"
+    },
+    "end": 457.94
+  },
+  {
+    "start": 457.94,
+    "chapter": "The number that matters",
+    "title": "Ask a better question.",
+    "type": "exit",
+    "big": "How much less",
+    "label": "do I owe?",
+    "footer": "UNDERSTAND THE NUMBERS. TAKE THE NEXT STEP.",
+    "end": 471.725
+  }
+]

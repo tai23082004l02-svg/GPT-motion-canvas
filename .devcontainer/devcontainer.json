@@ -1,0 +1,10 @@
+{
+  "name": "Motion Room Online",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:1-22-bookworm",
+  "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}/viewer",
+  "forwardPorts": [9010],
+  "portsAttributes": {"9010": {"label": "Motion Room", "onAutoForward": "openBrowserOnce"}},
+  "postCreateCommand": "npm ci",
+  "postStartCommand": "bash -lc 'if ! curl -fsS http://localhost:9010/ > /dev/null 2>&1; then nohup npm run dev -- --host 0.0.0.0 > /tmp/motion-room-dev.log 2>&1 & fi'",
+  "customizations": {"vscode": {"extensions": ["dbaeumer.vscode-eslint"]}}
+}

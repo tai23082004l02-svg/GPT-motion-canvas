@@ -1,0 +1,602 @@
+1
+00:00:00,000 --> 00:00:02,100
+You open your credit card app.
+
+2
+00:00:02,680 --> 00:00:04,960
+Last month you owed $5 ,000.
+
+3
+00:00:05,900 --> 00:00:07,680
+You made a $200 payment.
+
+4
+00:00:08,340 --> 00:00:09,380
+You didn't miss the deadline.
+
+5
+00:00:09,940 --> 00:00:11,700
+You did what you were supposed to do.
+
+6
+00:00:12,200 --> 00:00:15,200
+But now your balance is still around $4
+,900.
+
+7
+00:00:16,660 --> 00:00:17,000
+Wait.
+
+8
+00:00:17,760 --> 00:00:18,480
+You paid $200.
+
+9
+00:00:19,460 --> 00:00:22,000
+Why did your debt only shrink by about
+$100?
+
+10
+00:00:22,920 --> 00:00:24,460
+Where did the rest of your money go?
+
+11
+00:00:25,000 --> 00:00:26,200
+The answer is interest.
+
+12
+00:00:27,080 --> 00:00:31,460
+But the part that makes credit card debt
+so frustrating is how interest
+
+13
+00:00:31,460 --> 00:00:32,960
+interacts with your payments,
+
+14
+00:00:33,800 --> 00:00:35,280
+your purchases, and time.
+
+15
+00:00:36,220 --> 00:00:37,060
+Let's make it visible.
+
+16
+00:00:37,980 --> 00:00:42,920
+Imagine you have a credit card with a $5
+,000 balance and a
+
+17
+00:00:42,920 --> 00:00:46,720
+24 % annual percentage rate, or APR.
+
+18
+00:00:47,740 --> 00:00:49,220
+For a simple illustration,
+
+19
+00:00:50,120 --> 00:00:53,700
+24 % a year works out to about 2 % a
+month.
+
+20
+00:00:54,700 --> 00:00:58,240
+2 % of $5 ,000 is $100.
+
+21
+00:00:58,960 --> 00:01:03,240
+That means carrying this balance for
+roughly a month could add about
+
+22
+00:01:03,240 --> 00:01:05,180
+$100 in interest.
+
+23
+00:01:06,100 --> 00:01:09,520
+Actual credit cards often calculate
+interest daily,
+
+24
+00:01:10,360 --> 00:01:14,480
+so your exact charge depends on things
+like your balance throughout the
+
+25
+00:01:14,480 --> 00:01:16,960
+billing cycle and when your payment
+arrives.
+
+26
+00:01:18,080 --> 00:01:21,440
+But this simplified example shows the
+basic mechanics.
+
+27
+00:01:22,360 --> 00:01:24,740
+You start with $5 ,000.
+
+28
+00:01:25,860 --> 00:01:28,640
+About $100 in interest gets added.
+
+29
+00:01:29,620 --> 00:01:30,780
+Then you pay $200.
+
+30
+00:01:31,900 --> 00:01:34,740
+Your new balance is about $4 ,900.
+
+31
+00:01:35,560 --> 00:01:37,340
+Your payment did two jobs.
+
+32
+00:01:38,020 --> 00:01:42,560
+It covered the interest that had
+accumulated and it reduced the amount you
+
+33
+00:01:42,560 --> 00:01:42,900
+owed.
+
+34
+00:01:43,720 --> 00:01:47,500
+Only about half of that payment actually
+moved you out of debt.
+
+35
+00:01:48,500 --> 00:01:52,740
+And that's why making a payment can feel
+so different from making progress.
+
+36
+00:01:53,860 --> 00:01:55,400
+Now, here's something important.
+
+37
+00:01:56,320 --> 00:01:59,320
+Interest doesn't mean your balance can
+never go down.
+
+38
+00:02:00,040 --> 00:02:04,980
+If you stop adding purchases and keep
+making that same $200 payment,
+
+39
+00:02:05,540 --> 00:02:06,580
+your balance falls.
+
+40
+00:02:07,700 --> 00:02:08,380
+As it falls,
+
+41
+00:02:09,060 --> 00:02:11,620
+the interest charge generally falls too.
+
+42
+00:02:12,420 --> 00:02:16,900
+In our simplified example, 2 % of $4 ,900
+
+43
+00:02:16,900 --> 00:02:18,380
+is $98.
+
+44
+00:02:19,380 --> 00:02:24,280
+So the following month, a little more of
+your payment reduces the debt.
+
+45
+00:02:25,060 --> 00:02:27,300
+At first, the difference looks tiny.
+
+46
+00:02:28,300 --> 00:02:32,600
+But over time, more of the same payment
+goes toward reducing your balance
+
+47
+00:02:32,600 --> 00:02:34,820
+and less goes toward interest.
+
+48
+00:02:35,860 --> 00:02:39,720
+The problem is that a lot of people never
+get to see this process work
+
+49
+00:02:39,720 --> 00:02:40,240
+uninterrupted.
+
+50
+00:02:41,620 --> 00:02:43,540
+Because life keeps happening.
+
+51
+00:02:44,340 --> 00:02:45,160
+You pay $200.
+
+52
+00:02:46,480 --> 00:02:49,600
+Then you put $70 of groceries on the card,
+
+53
+00:02:50,300 --> 00:02:51,660
+$30 of gas,
+
+54
+00:02:52,380 --> 00:02:55,320
+and a $20 subscription you forgot was
+there.
+
+55
+00:02:56,060 --> 00:02:58,760
+That's $120 in new spending.
+
+56
+00:02:59,640 --> 00:03:04,180
+In our first month example, your payment
+reduced the old balance by about
+
+57
+00:03:04,180 --> 00:03:04,960
+$100.
+
+58
+00:03:06,080 --> 00:03:08,880
+But you added $120 back.
+
+59
+00:03:09,780 --> 00:03:12,360
+Now you owe more than you started with.
+
+60
+00:03:13,060 --> 00:03:16,020
+You made a payment on time and your
+balance still went up.
+
+61
+00:03:16,720 --> 00:03:18,280
+This is the treadmill effect.
+
+62
+00:03:19,060 --> 00:03:23,220
+Money leaves your checking account every
+month, but your debt barely moves
+
+63
+00:03:23,220 --> 00:03:27,720
+because interest and new purchases keep
+replacing what you paid off.
+
+64
+00:03:28,480 --> 00:03:30,100
+And then there's the minimum payment.
+
+65
+00:03:30,980 --> 00:03:32,260
+That number can look reassuring.
+
+66
+00:03:33,440 --> 00:03:33,900
+It's smaller.
+
+67
+00:03:34,820 --> 00:03:35,700
+It feels manageable.
+
+68
+00:03:36,740 --> 00:03:41,260
+And paying at least the minimum on time
+generally keeps your account from
+
+69
+00:03:41,260 --> 00:03:42,400
+being treated as late.
+
+70
+00:03:43,220 --> 00:03:47,100
+But the minimum payment is not a promise
+that you'll pay off the card quickly.
+
+71
+00:03:48,140 --> 00:03:50,620
+The calculation varies by card issuer.
+
+72
+00:03:51,520 --> 00:03:56,440
+It might depend on a percentage of your
+balance, interest and fees, or
+
+73
+00:03:56,440 --> 00:03:57,880
+a minimum dollar amount.
+
+74
+00:03:58,840 --> 00:03:59,780
+And on many cards,
+
+75
+00:04:00,500 --> 00:04:04,140
+the required minimum gets smaller as the
+balance gets smaller.
+
+76
+00:04:05,160 --> 00:04:06,500
+That sounds helpful.
+
+77
+00:04:07,300 --> 00:04:11,280
+But if you keep reducing your payment
+along with it, you can stretch repayment
+
+78
+00:04:11,280 --> 00:04:13,320
+out for a very long time.
+
+79
+00:04:13,920 --> 00:04:14,880
+Think of it this way.
+
+80
+00:04:15,980 --> 00:04:17,660
+Imagine walking toward an exit.
+
+81
+00:04:18,400 --> 00:04:20,500
+At first, you take normal steps.
+
+82
+00:04:21,360 --> 00:04:25,120
+Then every time you get closer, you make
+your next step a little smaller.
+
+83
+00:04:26,000 --> 00:04:27,300
+You're still moving forward.
+
+84
+00:04:28,060 --> 00:04:30,300
+But getting to the door takes much longer.
+
+85
+00:04:31,220 --> 00:04:36,160
+That's one reason a fixed monthly payment
+can work differently from paying
+
+86
+00:04:36,160 --> 00:04:38,820
+whatever minimum appears on your
+statement.
+
+87
+00:04:39,840 --> 00:04:43,820
+If you can afford to keep paying the same
+amount as your balance falls,
+
+88
+00:04:44,580 --> 00:04:46,860
+more of that payment can go toward the
+debt.
+
+89
+00:04:47,720 --> 00:04:50,740
+There's another detail that catches people
+off -guard.
+
+90
+00:04:51,620 --> 00:04:55,500
+New purchases may start costing interest
+sooner than they expect.
+
+91
+00:04:56,400 --> 00:05:00,480
+Many credit cards offer a grace period on
+purchases.
+
+92
+00:05:01,480 --> 00:05:06,240
+When you qualify for it, paying your full
+statement balance by the due date
+
+93
+00:05:06,240 --> 00:05:09,600
+generally lets you avoid interest on those
+purchases.
+
+94
+00:05:10,700 --> 00:05:12,080
+But if you carry a balance,
+
+95
+00:05:12,740 --> 00:05:14,700
+you may lose that grace period.
+
+96
+00:05:15,580 --> 00:05:20,320
+Depending on your card's terms, new
+purchases can then begin accruing
+
+97
+00:05:20,320 --> 00:05:22,440
+interest from their transaction dates.
+
+98
+00:05:23,420 --> 00:05:28,240
+So using the same card for everyday
+spending while you're trying to pay it off
+
+99
+00:05:28,240 --> 00:05:30,760
+can make the math even harder to outrun.
+
+100
+00:05:31,560 --> 00:05:32,600
+What actually helps?
+
+101
+00:05:33,920 --> 00:05:38,820
+First, separate paying down old debt from
+paying for new expenses as much
+
+102
+00:05:38,820 --> 00:05:40,400
+as your situation allows.
+
+103
+00:05:41,540 --> 00:05:43,960
+If new purchases keep landing on the card,
+
+104
+00:05:44,620 --> 00:05:48,480
+it becomes much harder to tell whether
+your repayment plan is working.
+
+105
+00:05:49,240 --> 00:05:51,260
+Second, look at the APR.
+
+106
+00:05:52,840 --> 00:05:57,640
+A $200 payment behaves very differently on
+a card charging 12
+
+107
+00:05:57,640 --> 00:06:00,560
+% than on one charging 30%.
+
+108
+00:06:00,560 --> 00:06:02,460
+The payment is the same.
+
+109
+00:06:03,340 --> 00:06:05,360
+The cost of carrying the balance isn’t.
+
+110
+00:06:06,240 --> 00:06:10,800
+Third, look for the minimum payment
+warning on your credit card statement.
+
+111
+00:06:10,800 --> 00:06:15,480
+It shows how long repayment could take if
+you make only minimum
+
+112
+00:06:15,480 --> 00:06:18,840
+payments, assuming no additional charges.
+
+113
+00:06:20,280 --> 00:06:24,380
+Your statement will also typically show a
+payment amount that would pay off
+
+114
+00:06:24,380 --> 00:06:26,580
+the current balance in about three years.
+
+115
+00:06:27,520 --> 00:06:32,240
+Those numbers make the cost of a small
+monthly payment much easier to see.
+
+116
+00:06:32,920 --> 00:06:35,880
+And finally, if you can afford to pay
+extra,
+
+117
+00:06:36,620 --> 00:06:38,820
+understand what that extra money does.
+
+118
+00:06:39,480 --> 00:06:42,040
+In our simplified first month example,
+
+119
+00:06:42,840 --> 00:06:47,060
+a $200 payment reduced the balance by
+about $100.
+
+120
+00:06:48,720 --> 00:06:52,940
+A $300 payment would reduce it by about
+$200.
+
+121
+00:06:54,060 --> 00:06:56,940
+The total payment is 50 % larger,
+
+122
+00:06:57,660 --> 00:07:01,100
+but the reduction in debt is twice as
+large that month.
+
+123
+00:07:01,940 --> 00:07:05,940
+And a lower balance means less interest
+accumulating afterward.
+
+124
+00:07:06,640 --> 00:07:11,000
+Of course, an extra $100 isn't available
+in
+
+125
+00:07:11,000 --> 00:07:12,120
+everyone's budget.
+
+126
+00:07:13,380 --> 00:07:18,220
+If the minimum itself is becoming
+unaffordable, contacting your card
+
+127
+00:07:18,220 --> 00:07:22,900
+issuer early and asking about hardship
+options can be a useful next
+
+128
+00:07:22,900 --> 00:07:23,360
+step.
+
+129
+00:07:24,200 --> 00:07:27,400
+The key is understanding what the numbers
+are telling you.
+
+130
+00:07:27,980 --> 00:07:30,240
+Your payment is how much money you send.
+
+131
+00:07:31,100 --> 00:07:34,160
+Your progress is how much your balance
+actually falls.
+
+132
+00:07:34,740 --> 00:07:36,640
+Those are two different numbers.
+
+133
+00:07:37,940 --> 00:07:41,620
+So the next time you open your credit card
+app, don't just ask,
+
+134
+00:07:42,360 --> 00:07:43,600
+did I make my payment?
+
+135
+00:07:44,300 --> 00:07:46,400
+Ask, how much less do I owe?
+
+136
+00:07:47,160 --> 00:07:50,680
+That's the number that tells you whether
+you're getting closer to the exit.
