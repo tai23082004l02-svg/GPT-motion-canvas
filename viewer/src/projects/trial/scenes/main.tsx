@@ -65,7 +65,7 @@ export default makeScene2D(function*(view){
    box(w,0,0,2200,1200,C.paper,0);const a=door(w,-565,70,'TRY IT',C.mint,350),b=door(w,565,70,'LEAVE IT',C.mint,350);actor(w,-300,145,()=>R(2,7)*Math.PI*8/6,'point','happy',1.1,true).x(()=>-300+600*R(2,7));caption('THE DOOR SHOULD WORK BOTH WAYS.',0,-290,890,C.gold,1);label('Find the exit before you walk in.',0,-195,38,C.ink,6);
   }
   // Small persistent chapter labels leave the scene itself to tell the story.
-  box(root,0,-480,1920,120,night?C.deep:C.paper,0);const chapter=s.chapter||[...shots.slice(0,shots.indexOf(s)+1)].reverse().find((q:any)=>q.chapter)?.chapter||'The exit';const ch=text(root,String(chapter).toUpperCase(),-875,-480,22,night?C.mint:C.teal);ch.offset.x(-1);text(root,`${String(s.id).padStart(2,'0')} / 24`,830,-480,22,night?C.soft:C.muted);
+  box(root,0,-480,1920,120,night?C.deep:C.paper,0);const chapter=s.chapter||[...shots.slice(0,shots.indexOf(s)+1)].reverse().find((q:any)=>q.chapter)?.chapter||'The exit';const ch=text(root,String(chapter).toUpperCase(),-650,-480,22,night?C.mint:C.teal);ch.offset.x(-1);text(root,`${String(s.id).padStart(2,'0')} / 24`,700,-480,22,night?C.soft:C.muted);
   box(root,0,500,1920,80,night?C.deep:C.paper,0);text(root,s.kind==='evidence'?'SOURCE: FTC, BRINGING DARK PATTERNS TO LIGHT (2022)':s.kind==='delete'?'SOURCE: GOOGLE PLAY HELP / UNINSTALLING DOES NOT CANCEL':s.kind==='phone'||s.kind==='receipt'?'SOURCE: APPLE & GOOGLE SUBSCRIPTION HELP':'ALEX, FRAME, PRICES AND INTERFACES ARE FICTIONAL EXAMPLES',0,498,17,night?C.soft:C.muted);
   root.opacity(()=>Math.min(R(0,.2),clamp((dur-t())/.2)));yield* tween(dur,v=>t(v*dur));root.remove();
  }
