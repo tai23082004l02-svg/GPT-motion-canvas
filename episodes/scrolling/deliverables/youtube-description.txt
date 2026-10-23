@@ -1,0 +1,26 @@
+TITLE: Why You Keep Scrolling When You’re Not Even Having Fun
+
+You opened your phone for two minutes. Now it is past midnight, and the feed is barely entertaining. Why is the next swipe still so tempting?
+
+Follow Alex through the checking loop, the missing stopping points, and a small experiment for making the next decision visible. This animated explainer draws on research about habit, smartphone checking, social reward learning, and interface design. The story and app interface are fictional; the practical suggestions are experiments, not guaranteed treatments.
+
+CHAPTERS
+00:00 The two-minute plan
+00:37 What keeps it going
+01:32 The missing finish line
+02:13 The promise of the next swipe
+03:12 When time slips away
+03:57 Make room for a choice
+05:48 Try it in real life
+06:42 The next swipe
+
+RESEARCH
+Wood & Rünger (2016): https://doi.org/10.1146/annurev-psych-122414-033417
+Oulasvirta et al. (2012): https://doi.org/10.1007/s00779-011-0412-2
+Lindström et al. (2021): https://www.nature.com/articles/s41467-020-19607-x
+Baughan et al. (2022): https://doi.org/10.1145/3491102.3501899
+Ruiz et al. (2024): https://doi.org/10.1145/3670653.3677495
+
+Original animation, music, and sound design. Synthetic English narration: Kokoro Michael.
+
+#Scrolling #DigitalHabits #Explained

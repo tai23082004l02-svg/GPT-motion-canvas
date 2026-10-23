@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720"><defs><clipPath id="feed"><rect x="762" y="104" width="347" height="510" rx="24"/></clipPath><style>text{font-family:'DejaVu Sans',sans-serif;font-weight:800}</style></defs>
+<rect width="1280" height="720" fill="#20243d"/><circle cx="1033" cy="375" r="344" fill="#333855"/>
+<text x="65" y="119" font-size="90" fill="#9ddac5">STILL</text><text x="65" y="226" font-size="90" fill="#fffaf1">SCROLLING?</text><text x="70" y="278" font-size="27" fill="#ec927d">WHEN IT ISN’T EVEN FUN</text>
+<g transform="translate(310 535) scale(.96)">
+<ellipse cx="0" cy="175" rx="130" ry="13" fill="#161b30"/>
+<path d="M-25 3L-32 77L-37 150M25 3L32 77L37 150" fill="none" stroke="#121a26" stroke-width="27" stroke-linecap="round"/><g fill="#fffaf1" stroke="#121a26" stroke-width="3"><rect x="-77" y="143" width="63" height="25" rx="10"/><rect x="17" y="143" width="63" height="25" rx="10"/></g>
+<rect x="-54" y="-113" width="108" height="132" rx="27" fill="#198c83"/><path d="M-18 -110L18 -110L12 -25L-12 -25Z" fill="#fffaf1"/>
+<path d="M-46 -89L-80 -28L-93 17M45 -89L95 -18L72 -67" fill="none" stroke="#198c83" stroke-width="23" stroke-linecap="round"/><g fill="#d9a17c"><circle cx="-94" cy="23" r="13"/><circle cx="72" cy="-67" r="13"/><rect x="-15" y="-137" width="31" height="39" rx="11"/><circle cx="-47" cy="-171" r="9"/><circle cx="47" cy="-171" r="9"/><rect x="-50" y="-227" width="100" height="112" rx="41"/></g>
+<path d="M-49 -169Q-61 -235 -9 -234Q16 -251 47 -224Q65 -199 43 -179L33 -204Q0 -188 -35 -205L-41 -169Z" fill="#25333d"/>
+<path d="M-28 -167h10M14 -167h10M-13 -137h27M-31 -193h18M12 -193h19" stroke="#24283c" stroke-width="5" stroke-linecap="round"/>
+<g transform="translate(68 -111) rotate(-7)"><rect x="-27" y="-47" width="54" height="94" rx="10" fill="#161b30"/><rect x="-21" y="-38" width="42" height="76" rx="5" fill="#a698d4"/><rect x="-16" y="-13" width="32" height="31" rx="4" fill="#ec927d"/></g><path d="M78 -70L76 -85L70 -106" fill="none" stroke="#d9a17c" stroke-width="9" stroke-linecap="round"/>
+</g>
+<rect x="428" y="338" width="281" height="88" rx="23" fill="#fffaf1"/><path d="M470 420L451 446L508 420" fill="#fffaf1"/><text x="568" y="376" text-anchor="middle" font-size="23" fill="#24283c">JUST TWO</text><text x="568" y="407" text-anchor="middle" font-size="23" fill="#24283c">MINUTES.</text>
+<rect x="735" y="59" width="400" height="609" rx="49" fill="#161b30"/><rect x="749" y="74" width="372" height="578" rx="37" fill="#fffaf1"/>
+<g clip-path="url(#feed)"><rect x="762" y="104" width="347" height="510" fill="#f5efe4"/>
+<rect x="773" y="159" width="324" height="249" rx="20" fill="#ec927d"/>
+<g transform="translate(935 278)"><path d="M-58 -13L-53 -70L-17 -33M58 -13L53 -70L17 -33" fill="#24283c"/><rect x="-65" y="-44" width="130" height="105" rx="42" fill="#24283c"/><g fill="#edc66b"><circle cx="-24" cy="-4" r="7"/><circle cx="24" cy="-4" r="7"/></g><path d="M-8 21L8 21L0 29Z" fill="#ec927d"/></g>
+<circle cx="790" cy="438" r="13" fill="#198c83"/><rect x="815" y="429" width="170" height="8" rx="4" fill="#c9c5d0"/><rect x="815" y="447" width="125" height="7" rx="3" fill="#d9d7e4"/>
+<rect x="773" y="481" width="324" height="240" rx="20" fill="#9ddac5"/><path d="M868 553Q874 627 935 627Q996 627 1002 553Z" fill="#fffaf1" stroke="#24283c" stroke-width="5"/><path d="M895 512L889 531M935 506L928 531M975 512L968 531" stroke="#198c83" stroke-width="5" stroke-linecap="round"/>
+</g><rect x="875" y="82" width="117" height="16" rx="8" fill="#161b30"/><text x="779" y="136" font-size="23" fill="#24283c">LOOP</text><rect x="884" y="631" width="102" height="6" rx="3" fill="#161b30"/>
+<rect x="425" y="513" width="281" height="112" rx="20" fill="#161b30"/><text x="566" y="554" text-anchor="middle" font-size="25" fill="#edc66b">11:42 PM</text><text x="566" y="601" text-anchor="middle" font-size="31" fill="#ec927d">12:26 AM</text>
+
+</svg>
