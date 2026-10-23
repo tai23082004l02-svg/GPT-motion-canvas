@@ -1,6 +1,6 @@
 # Motion Room
 
-Private online viewer for the owner's Motion Canvas episodes. Animations render live on Canvas; audio plays from an HTML audio element. No MP4 is generated, hosted or requested by the app.
+Online viewer for the owner's Motion Canvas episodes. Animations render live on Canvas; audio plays from an HTML audio element. No MP4 is generated, hosted or requested by the app.
 
 ## Run
 
@@ -37,3 +37,5 @@ Use a static host that supports HTTP byte ranges for audio seeking. Vite preview
 4. Commit and push to `main`; GitHub Actions builds and redeploys the viewer to GitHub Pages. No video render step is involved.
 
 Visuals and soundtracks originate from the owner's GPT-motion-canvas repository. Kokoro am_michael is used for the car episode. See the episode's attribution document in that repository for voice and dependency provenance. Bundled DejaVu font license is included alongside the fonts.
+
+The GitHub Pages viewer is public. Codespaces forwarded ports use GitHub’s private visibility by default.
