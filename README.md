@@ -9,7 +9,19 @@
 
 Alex trong phòng xem đã được giữ ổn định đầu/cổ theo góp ý. Các file MP4 cũ vẫn nằm trong mục tải bên dưới; trình xem không dùng chúng.
 
-## Tập 003 — mới nhất
+## Tập 004 — mới nhất
+
+**Why Your Free Trial Is So Hard to Cancel** — theo Alex từ nút dùng thử đến mê cung hủy đăng ký. Thêm hành động, biểu cảm, cỡ cảnh và đạo cụ; đầu/cổ giữ ổn định.
+
+**6 phút 31 giây · 24 cảnh · Kokoro Michael · nhạc và Foley riêng**
+
+- **[Xem tập 004 online](https://tai23082004l02-svg.github.io/GPT-motion-canvas/?episode=trial)**
+- [Kịch bản, nguồn và bộ bàn giao](episodes/free-trial/)
+- [Thumbnail](episodes/free-trial/deliverables/thumbnail.png)
+
+![Free trial thumbnail](episodes/free-trial/deliverables/thumbnail.png)
+
+## Tập 003
 
 **Why You Keep Scrolling When You’re Not Even Having Fun** — câu chuyện về Alex, thói quen kiểm tra điện thoại, feed vô tận và cách tạo điểm dừng.
 
