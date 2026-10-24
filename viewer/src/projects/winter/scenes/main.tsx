@@ -4,15 +4,15 @@ import shots from '../shots.json';
 import {C,box,disk,line,poly,text,card,bubble,background,page,person,logs,fire,snow,wind,bowl,pot,sack,bread,fish,shutter,candle,bed,chicken,table,crossed,ramp,clamp} from '../art';
 export default makeScene2D(function*(view){
  for(const s of shots as any[]){
-  const t=createSignal(0),dur=s.end-s.start,root=new Node({}),w=new Node({});view.add(root);root.add(w);
+  const t=createSignal(0),dur=s.end-s.start,root=new Node({}),w=new Node({});view.add(root);root.add(w);const overlay=new Node({});root.add(overlay);
   const R=(a=0,b=1)=>ramp(t(),a,b),k=s.kind;
   const appear=(n:Node,at=0)=>{const yy=n.y();n.opacity(()=>R(at,.55));n.y(()=>yy+22*(1-R(at,.55)));return n};
-  const label=(v:string,x:number,y:number,size=40,at=0)=>appear(text(w,v,x,y,size),at);
-  const note=(v:string,x:number,y:number,width=500,at=0,col=C.paper)=>appear(card(w,v,x,y,width,col,32),at);
-  const talk=(v:string,x:number,y:number,width=360,at=0)=>appear(bubble(w,v,x,y,width),at);
+  const label=(v:string,x:number,y:number,size=40,at=0)=>appear(text(overlay,v,x,y,size),at);
+  const note=(v:string,x:number,y:number,width=500,at=0,col=C.paper)=>appear(card(overlay,v,x,y,width,col,32),at);
+  const talk=(v:string,x:number,y:number,width=360,at=0)=>appear(bubble(overlay,v,x,y,width),at);
   const walk=(who:string,x1:number,x2:number,y=180,at=0,sc=1,carry=false)=>{const a=person(w,x1,y,()=>t()>at&&t()<at+3.7?t()-at:0,who,carry?'carryWalk':'walk','neutral',sc);a.g.x(()=>x1+(x2-x1)*R(at,3.7));return a};
   const family=(night=false)=>{background(w,'hall',night);fire(w,-370,255,t,.85);person(w,-650,150,t,'will','cold','cold',1.02);person(w,190,185,t,'joan','stand','happy',1.08);person(w,500,247,t,'kit','bowl','happy',.72);bowl(w,500,212,.52)};
-  const heading=(v:string)=>{text(w,v,0,-390,60);line(w,[[-230,-338],[230,-338]],C.gold,5)};
+  const heading=(v:string)=>{text(overlay,v,0,-390,60);line(overlay,[[-230,-338],[230,-338]],C.gold,5)};
   // Cut between wide and tighter compositions every ~5 seconds; the soundtrack stays continuous.
   const diagram=['air','rights','autumn','preserve','noPotato','unequal','modern'].includes(k);
   const shot=()=>Math.floor(t()/5);
