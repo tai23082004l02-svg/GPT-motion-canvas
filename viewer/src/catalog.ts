@@ -1,3 +1,4 @@
+import winterShots from './projects/winter/shots.json';
 import metaShots from './projects/meta/shots.json';
 import trialShots from './projects/trial/shots.json';
 import scrollShots from './projects/scroll/shots.json';
@@ -5,6 +6,7 @@ import carShots from './projects/car/shots.json';
 import creditShots from './projects/credit/cues.json';
 export type Episode={id:string;number:string;title:string;description:string;duration:number;voice:string;poster:string;audio:string;captions:string;date:string;scenes:{start:number;end:number;title:string;chapter?:string}[];load:()=>Promise<any>};
 const records:Episode[]=[
+{id:'winter',number:'06',title:'How Did People Survive Winter Before Electricity?',description:'Theo chân Joan, Will và Kit qua một ngày đông ở miền nam nước Anh khoảng năm 1400: giữ ấm, mang củi, nấu ăn và vượt qua đêm dài.',duration:540.9960833333333,voice:'Michael · Kokoro',poster:'/images/winter.png',audio:'/audio/winter.mp3',captions:'/captions/winter.srt',date:'24.10.2026',scenes:winterShots,load:()=>import('./projects/winter/project?project')},
 {id:'meta',number:'05',title:'Why Scam Ads Keep Finding You — Meta’s New Lawsuit Explained',description:'Vụ kiện Rhode Island chống Meta, phản hồi của công ty và hành trình từ quảng cáo hấp dẫn đến nhóm chat đầu tư giả.',duration:430.378375,voice:'Michael · Kokoro',poster:'/images/meta.png',audio:'/audio/meta.mp3',captions:'/captions/meta.srt',date:'23.10.2026',scenes:metaShots,load:()=>import('./projects/meta/project?project')},
 {id:'trial',number:'04',title:'Why Your Free Trial Is So Hard to Cancel',description:'Alex chỉ muốn xem một phim tài liệu. Một tháng sau, khoản gia hạn đưa anh vào mê cung tìm nút hủy đăng ký.',duration:390.76441666666665,voice:'Michael · Kokoro',poster:'/images/trial.png',audio:'/audio/trial.mp3',captions:'/captions/trial.srt',date:'23.10.2026',scenes:trialShots,load:()=>import('./projects/trial/project?project')},
 {id:'scroll',number:'03',title:'Why You Keep Scrolling When You’re Not Even Having Fun',description:'Alex định lướt điện thoại hai phút trước khi ngủ. Điều gì khiến lần lướt tiếp theo cứ hấp dẫn, ngay cả khi niềm vui đã hết?',duration:415.9024166666667,voice:'Michael · Kokoro',poster:'/images/scroll.png',audio:'/audio/scroll.mp3',captions:'/captions/scroll.srt',date:'23.10.2026',scenes:scrollShots,load:()=>import('./projects/scroll/project?project')},

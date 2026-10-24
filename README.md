@@ -12,7 +12,20 @@
 
 Alex trong phòng xem đã được giữ ổn định đầu/cổ theo góp ý. Các file MP4 cũ vẫn nằm trong mục tải bên dưới; trình xem không dùng chúng.
 
-## Tập 005 — mới nhất
+## Tập 006 — mới nhất · SCOPIVO
+
+**How Did People Survive Winter Before Electricity?** — theo chân Joan, Will và Kit, một gia đình hư cấu ở miền nam nước Anh khoảng năm 1400. Người que có biểu cảm, nền minh họa, đạo cụ và hành động theo câu chuyện.
+
+**9 phút 01 giây · 32 cảnh · Kokoro Michael · nhạc và hiệu ứng riêng · Times New Roman/serif · không có bộ đếm cảnh trong hình**
+
+- **[Xem tập 006 online](https://tai23082004l02-svg.github.io/GPT-motion-canvas/?episode=winter)**
+- [Kịch bản, nguồn nghiên cứu và bộ bàn giao](episodes/winter-before-electricity/)
+- [Thumbnail](episodes/winter-before-electricity/deliverables/thumbnail.png)
+- [Phụ đề tiếng Anh](episodes/winter-before-electricity/deliverables/captions.en.srt)
+
+![SCOPIVO winter thumbnail](episodes/winter-before-electricity/deliverables/thumbnail.png)
+
+## Tập 005
 
 **Why Scam Ads Keep Finding You — Meta’s New Lawsuit Explained** — vụ kiện Rhode Island, phản hồi của Meta và hành trình từ quảng cáo hấp dẫn đến nhóm đầu tư giả. Phân biệt rõ cáo buộc, số liệu và minh họa.
 

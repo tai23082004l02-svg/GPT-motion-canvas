@@ -19,6 +19,10 @@ npx vite preview --port 9011
 
 Use a static host that supports HTTP byte ranges for audio seeking. Vite preview and the production host support this. Python's basic `http.server` does not and is unsuitable for testing audio seek.
 
+## Latest episode
+
+SCOPIVO episode 006: [How Did People Survive Winter Before Electricity?](https://tai23082004l02-svg.github.io/GPT-motion-canvas/?episode=winter), 9:01, 32 scenes. Original reusable stick characters and generated background plates. Research, disclosure, production scripts and publishing materials are in `../episodes/winter-before-electricity/`.
+
 ## Features
 
 - Episode library, scene selection, seeking, pause/resume, speed and volume.

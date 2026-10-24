@@ -1,4 +1,4 @@
-// Browser integration checks. Requires Chromium and ffprobe on the test machine.
+// Browser integration checks. Requires Chromium, FFmpeg and ffprobe on the test machine.
 import assert from 'node:assert/strict';
 import {spawn,execFileSync} from 'node:child_process';
 import {mkdtemp,rm} from 'node:fs/promises';
@@ -41,7 +41,7 @@ try{
  // Unsupported browsers must report a failure instead of downloading a disguised file.
  const unsupported=await browser.newPage();await unsupported.addInitScript(()=>{Object.defineProperty(window,'VideoEncoder',{value:undefined,configurable:true})});await ready(unsupported);await unsupported.click('#export-video');await unsupported.click('#export-start');await unsupported.waitForFunction(()=>document.querySelector('#export-dialog')?.dataset.phase==='error',null,{timeout:60000});assert.match(await unsupported.locator('#export-error').textContent(),/Chrome|Edge/);await unsupported.close();
  // A missing soundtrack must fail visibly; it must not create a silent MP4.
- await page.click('#export-close');await page.route('**/audio/meta.mp3',route=>route.fulfill({status:503,body:'unavailable'}));await page.click('#export-video');await page.click('#export-start');await page.waitForFunction(()=>document.querySelector('#export-dialog')?.dataset.phase==='error',null,{timeout:60000});assert.match(await page.locator('#export-error').textContent(),/âm thanh/);assert.equal(await page.locator('#export-result').isVisible(),false);
+ await page.click('#export-close');const soundtrack=await page.evaluate(()=>document.querySelector('audio').src);await page.route(soundtrack,route=>route.fulfill({status:503,body:'unavailable'}));await page.click('#export-video');await page.click('#export-start');await page.waitForFunction(()=>document.querySelector('#export-dialog')?.dataset.phase==='error',null,{timeout:60000});assert.match(await page.locator('#export-error').textContent(),/âm thanh/);assert.equal(await page.locator('#export-result').isVisible(),false);
  assert.deepEqual(errors,[]);
  console.log('PASS: H.264/AAC MP4, 300 frames, audio independent of mute/speed, retry, cancel, playback, mobile, unsupported codecs and missing audio.');
 }finally{await browser?.close();server?.kill();await rm(folder,{recursive:true,force:true});}

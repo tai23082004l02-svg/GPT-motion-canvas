@@ -1,0 +1,21 @@
+{
+  "style": "Original round-faced stick characters over warm ink-and-paper historical illustrations",
+  "logicalResolution": [1920, 1080],
+  "fps": 30,
+  "font": "Times New Roman, Liberation Serif, serif",
+  "characters": [
+    {"id":"will","clothing":"mustard tunic and soft cap","head":"fixed to torso"},
+    {"id":"joan","clothing":"teal dress and cream headscarf","head":"fixed to torso"},
+    {"id":"kit","clothing":"rust tunic, brown hair","head":"fixed to torso"}
+  ],
+  "backgrounds": [
+    {"file":"viewer/public/images/winter/village.webp","purpose":"house, fuel, puddle, outdoor chores, neighbours","method":"OpenAI image generation"},
+    {"file":"viewer/public/images/winter/hall.webp","purpose":"hearth, cooking, maintenance, lighting, sleep","method":"OpenAI image generation"},
+    {"file":"viewer/public/images/winter/pantry.webp","purpose":"stored food, planning, hunger gap","method":"OpenAI image generation"}
+  ],
+  "animation": "Reusable vector body parts, circular hands, connected limb gestures, finite walks, prop motion, flame/steam/weather loops, camera push-ins and timed explanations",
+  "thumbnail": "viewer/public/images/winter.png",
+  "generatedFrames": false,
+  "comfyuiUsed": false,
+  "notes": "Backgrounds do not contain people; character identity remains deterministic in Motion Canvas. No frame-by-frame AI video generation or copied reference artwork. No scene-number overlay in the artwork."
+}

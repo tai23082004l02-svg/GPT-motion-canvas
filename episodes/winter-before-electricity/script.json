@@ -1,0 +1,258 @@
+[
+  {
+    "id": 1,
+    "kind": "hook",
+    "title": "No thermostat. Now what?",
+    "narration": "Imagine waking up and seeing your breath inside your own home. There is no thermostat. No electric blanket. And the fire is looking suspiciously unimpressed. How do you get through the day, let alone the entire winter?",
+    "chapter": "A winter’s day",
+    "source": "editorial"
+  },
+  {
+    "id": 2,
+    "kind": "scope",
+    "title": "Southern England · around 1400",
+    "narration": "Let’s visit a farming household in southern England around fourteen hundred. Meet Joan, Will, and their child, Kit. They are fictional, but the problems around them are historical. This is one place and period, not a portrait of everyone before electricity.",
+    "chapter": null,
+    "source": "scope"
+  },
+  {
+    "id": 3,
+    "kind": "morning",
+    "title": "Warmth starts with what you keep",
+    "narration": "Will’s first discovery is that standing near yesterday’s fire is not the same as being warm. The household needs several things working together: shelter, clothing, fuel, food, and enough preparation to make those supplies last.",
+    "chapter": null,
+    "source": "editorial"
+  },
+  {
+    "id": 4,
+    "kind": "wet",
+    "title": "Cold is not always a snowstorm",
+    "narration": "Our story begins with a frosty morning. But winter also means rain, mud, wind, and wet clothes. You do not need a dramatic blizzard to feel miserable. Kit has already found a puddle. This is not helping.",
+    "chapter": null,
+    "source": "editorial"
+  },
+  {
+    "id": 5,
+    "kind": "layers",
+    "title": "Dress the person first",
+    "narration": "Before heating more space, Joan adds another layer. Wool clothing, linen underlayers, hoods, and leg coverings belong to this world. The exact outfit depends on money and work. These people have clothing choices, not one universal medieval costume.",
+    "chapter": "Keeping warmth close",
+    "source": "clothing"
+  },
+  {
+    "id": 6,
+    "kind": "air",
+    "title": "A tiny pocket of warmth",
+    "narration": "The useful trick is trapped air. Layers slow the loss of body heat. A hood also covers places a thin tunic leaves exposed. It is less like wearing a portable furnace, and more like putting a lid on the warmth you already produce.",
+    "chapter": null,
+    "source": "physics"
+  },
+  {
+    "id": 7,
+    "kind": "dry",
+    "title": "Drying is part of the job",
+    "narration": "Back from the puddle, Kit needs dry things. Clothes must be tended, repaired, and dried. Keeping a household supplied means work that never appears in a picture of someone simply sitting beside a cozy fire.",
+    "chapter": null,
+    "source": "editorial"
+  },
+  {
+    "id": 8,
+    "kind": "house",
+    "title": "The house is another layer",
+    "narration": "The building matters too. Timber framing, plastered walls, a roof, and wooden shutters separate the family from the weather. Surviving hall houses preserve clues to this design. They also show that a medieval home could change substantially over its lifetime.",
+    "chapter": null,
+    "source": "house"
+  },
+  {
+    "id": 9,
+    "kind": "shutters",
+    "title": "Close the shutter. Lose the light.",
+    "narration": "Will closes a wooden shutter against the wind. The room becomes darker. That is the bargain: admit daylight, or shut out some weather. There is no invisible modern window system quietly solving both problems for him.",
+    "chapter": null,
+    "source": "house"
+  },
+  {
+    "id": 10,
+    "kind": "hearth",
+    "title": "The fire is in the room",
+    "narration": "Now look at the hearth. In many medieval hall houses, the fire burned in an open central space. It was not necessarily inside a neat wall fireplace. The tall hall let smoke rise toward the roof.",
+    "chapter": "The work behind the fire",
+    "source": "hearth"
+  },
+  {
+    "id": 11,
+    "kind": "smoke",
+    "title": "Warmth came with smoke",
+    "narration": "Old roof timbers can still carry the blackening left by those fires. Heat was useful. Smoke was a cost. Joan does not respond by sealing every opening. A house with a fire needs a way for smoke and air to move.",
+    "chapter": null,
+    "source": "hearth"
+  },
+  {
+    "id": 12,
+    "kind": "fuel",
+    "title": "A fire needs tomorrow’s wood",
+    "narration": "Then comes the less picturesque part: fuel. Will must obtain it, carry it, store it, and keep suitable supplies ready. The fire does not care that everyone is tired. It expects another delivery. And then another.",
+    "chapter": null,
+    "source": "editorial"
+  },
+  {
+    "id": 13,
+    "kind": "rights",
+    "title": "A forest was not a free fuel aisle",
+    "narration": "Nor does a nearby wood automatically mean unlimited free timber. Rights to gather or cut materials could belong to particular people and come with conditions. Access to fuel was a social and economic question as well as a practical one.",
+    "chapter": null,
+    "source": "rights"
+  },
+  {
+    "id": 14,
+    "kind": "bundle",
+    "title": "The warm scene has a cold backstory",
+    "narration": "So Will returns with a bundle. Joan tends the hearth. Kit is entrusted with something smaller. What looks like a warm room is really a chain of tasks, spread across people and across time. Break the chain, and the comfort shrinks.",
+    "chapter": null,
+    "source": "editorial"
+  },
+  {
+    "id": 15,
+    "kind": "zone",
+    "title": "Warm people, not every corner",
+    "narration": "Even with a fire, the whole building does not become evenly comfortable. The family gathers near useful warmth. Move farther away, and the cold becomes more noticeable. Heating the people and the occupied spot is a different ambition from heating every room.",
+    "chapter": null,
+    "source": "physics"
+  },
+  {
+    "id": 16,
+    "kind": "pot",
+    "title": "One fire, several jobs",
+    "narration": "The same hearth can help with cooking. Joan puts a pot over the heat while the household gathers nearby. The fire is doing several jobs at once. But a boiling pot is only useful if there is something left to put in it.",
+    "chapter": "Eating through winter",
+    "source": "editorial"
+  },
+  {
+    "id": 17,
+    "kind": "autumn",
+    "title": "Winter began before winter",
+    "narration": "That problem began months earlier. A harvest has to feed people beyond harvest day. Grain, dried pulses, and other stores turn earlier labor into future meals. A full basket in autumn is a promise that still has to survive storage.",
+    "chapter": null,
+    "source": "foodstores"
+  },
+  {
+    "id": 18,
+    "kind": "pantry",
+    "title": "The pantry is a calendar",
+    "narration": "Joan checks the supplies. How much is left? How long must it last? Will damp or pests spoil it? The important question is not merely whether there is food today. It is whether today’s meal makes tomorrow’s situation worse.",
+    "chapter": null,
+    "source": "editorial"
+  },
+  {
+    "id": 19,
+    "kind": "meal",
+    "title": "Pottage, bread, and what was available",
+    "narration": "Pottage means a thick cooked dish, with ingredients that could vary. Bread mattered too. Research at the medieval village of West Cotton found evidence for meat and vegetable stews, along with dairy foods. Ordinary diets were more varied than a single cartoon bowl suggests.",
+    "chapter": null,
+    "source": "diet"
+  },
+  {
+    "id": 20,
+    "kind": "preserve",
+    "title": "Before the refrigerator",
+    "narration": "Other foods could be dried, smoked, or salted. These were ways to extend supplies, not guarantees against spoilage. What this family could obtain depended on their resources and connections. A preserved fish on the table has a journey behind it.",
+    "chapter": null,
+    "source": "preserve"
+  },
+  {
+    "id": 21,
+    "kind": "noPotato",
+    "title": "One ingredient is missing",
+    "narration": "Kit suggests adding potatoes. A promising idea, except this is England around fourteen hundred. That ingredient belongs to a later chapter. Our stew will have to manage without it. Historical cooking is easier when the ingredients have actually arrived.",
+    "chapter": null,
+    "source": "potato"
+  },
+  {
+    "id": 22,
+    "kind": "daylight",
+    "title": "The afternoon is already leaving",
+    "narration": "Outside, useful daylight is slipping away. Animals still need care, and chores do not disappear because the air is cold. Will wants the outdoor work finished before it becomes harder to see. The sun is an unforgiving scheduling assistant.",
+    "chapter": "The long dark evening",
+    "source": "editorial"
+  },
+  {
+    "id": 23,
+    "kind": "chores",
+    "title": "There was still work to do",
+    "narration": "Inside, Joan mends a garment while Kit helps sort supplies. Spinning and other household work could continue through winter. Our family’s exact task list is imagined, but the work of maintaining clothing, food, and shelter was very real.",
+    "chapter": null,
+    "source": "chores"
+  },
+  {
+    "id": 24,
+    "kind": "light",
+    "title": "Light was another supply",
+    "narration": "After sunset, firelight helps, but it is not a ceiling lamp. Poorer households could use rushlights or tallow candles. Beeswax was associated with wealthier households and churches. Light had materials, a cost, and a limited reach.",
+    "chapter": null,
+    "source": "lighting"
+  },
+  {
+    "id": 25,
+    "kind": "rush",
+    "title": "A small flame changes the evening",
+    "narration": "A rushlight used the pith of a plant with fat as fuel. Imagine trying to work around that small glow. The evening is not completely inactive. It simply has a different scale from a modern room bright enough to light every corner.",
+    "chapter": null,
+    "source": "lighting"
+  },
+  {
+    "id": 26,
+    "kind": "bed",
+    "title": "Warm the bed, too",
+    "narration": "When it is time to sleep, bedding matters. Rural households had widely differing arrangements: mattresses, sheets, coverlets, and sometimes blankets appear in the evidence. Our family has a simple stuffed mattress and coverings. They are useful possessions, not background decoration.",
+    "chapter": "Getting through the night",
+    "source": "bedding"
+  },
+  {
+    "id": 27,
+    "kind": "embers",
+    "title": "A smaller fire. The same cold.",
+    "narration": "As Joan tends the hearth for the night, the warm circle becomes smaller. Kit pulls the covering closer. This is a reconstruction of a household making choices, not a claim that every family used the same bedtime routine.",
+    "chapter": null,
+    "source": "editorial"
+  },
+  {
+    "id": 28,
+    "kind": "unequal",
+    "title": "Not everyone had the same winter",
+    "narration": "Now imagine the same cold with fewer clothes, less food, or a damaged roof. Or imagine greater wealth and better furnishings. There was no single medieval standard of comfort. Resources changed what a household could do when conditions turned difficult.",
+    "chapter": null,
+    "source": "inequality"
+  },
+  {
+    "id": 29,
+    "kind": "gap",
+    "title": "Spring did not refill the pantry",
+    "narration": "And the danger did not vanish with the last frost. Stored supplies could run low before new crops were ready. Museums describe this seasonal squeeze as a hunger gap. A slightly warmer day did not automatically put a meal on the table.",
+    "chapter": null,
+    "source": "gap"
+  },
+  {
+    "id": 30,
+    "kind": "neighbors",
+    "title": "A household was not an island",
+    "narration": "Our story also needs the people beyond this door: neighbors, suppliers, craftspeople, and the wider village. The help we show here is fictional. The larger point is practical: a family depended on access to materials and other people’s work, not just individual toughness.",
+    "chapter": null,
+    "source": "editorial"
+  },
+  {
+    "id": 31,
+    "kind": "modern",
+    "title": "Before electricity ≠ before heating",
+    "narration": "One final correction: before electricity does not mean before heating technology. Fireplaces, chimneys, and many kinds of stoves existed before widespread electric power. Different places developed different solutions. We followed an open hearth household, not the whole history of staying warm.",
+    "chapter": null,
+    "source": "hearth"
+  },
+  {
+    "id": 32,
+    "kind": "final",
+    "title": "Warmth was work",
+    "narration": "So how did people survive winter? By keeping warmth close, tending buildings and clothing, finding fuel, planning meals, and adapting their days. Survival was possible, but comfort was unequal and hardship was real. The missing thermostat was only the beginning. This is Scopivo. A clearer view.",
+    "chapter": "A clearer view",
+    "source": "editorial"
+  }
+]
