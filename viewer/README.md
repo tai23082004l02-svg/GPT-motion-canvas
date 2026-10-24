@@ -21,7 +21,7 @@ Use a static host that supports HTTP byte ranges for audio seeking. Vite preview
 
 ## Latest episode
 
-SCOPIVO episode 008: [How Rich Is Elon Musk, Really? The iPhone Test](https://tai23082004l02-svg.github.io/GPT-motion-canvas/?episode=musk), 17:40, 53 narration sections and 291 shot intervals with cuts around every four seconds. Dated wealth equivalents and fictional finance examples are labeled. Script, sources and publishing materials are in `../episodes/musk-wealth/`.
+SCOPIVO episode 009: [Which Countries Gained the Most After World War II?](https://tai23082004l02-svg.github.io/GPT-motion-canvas/?episode=ww2), 19:15, 53 narration sections and 316 shot intervals at approximately four-second cuts. Six selected country cases distinguish economic capacity, geopolitical influence and long-run recovery; sovereignty supplies an additional perspective. Source notes, script and publishing materials are in `../episodes/ww2-gains/`.
 
 ## Features
 

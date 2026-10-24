@@ -12,7 +12,18 @@
 
 Alex trong phòng xem đã được giữ ổn định đầu/cổ theo góp ý. Các file MP4 cũ vẫn nằm trong mục tải bên dưới; trình xem không dùng chúng.
 
-## Tập 008 — mới nhất · SCOPIVO
+## Tập 009 — mới nhất · SCOPIVO
+
+**Which Countries Gained the Most After World War II?** — sáu trường hợp về kinh tế, địa chính trị và phục hồi dài hạn, cùng góc nhìn về quyền tự quyết sau chiến tranh.
+
+**19 phút 15 giây · 53 đoạn kể / 316 lượt cắt hình · Kokoro Michael · Times New Roman/serif**
+
+- **[Xem tập 009 online](https://tai23082004l02-svg.github.io/GPT-motion-canvas/?episode=ww2)**
+- [Kịch bản, nguồn, phụ đề, thumbnail và thông tin đăng YouTube](episodes/ww2-gains/)
+
+![SCOPIVO postwar thumbnail](episodes/ww2-gains/deliverables/thumbnail.png)
+
+## Tập 008 · SCOPIVO
 
 **How Rich Is Elon Musk, Really? The iPhone Test** — từ gần 770 triệu iPhone tương đương đến tài sản ròng, quyền sở hữu và khả năng chuyển thành tiền.
 

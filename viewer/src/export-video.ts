@@ -114,7 +114,7 @@ export async function exportVideo(options:ExportOptions):Promise<Blob>{
 function drawCaption(ctx:CanvasRenderingContext2D,value:string,width:number,height:number,episodeId:string){
  if(!value)return;
  const scale=height/1080,size=46*scale,lineHeight=56*scale,padding=20*scale;
- ctx.save();ctx.font=`600 ${size}px ${['trial','meta','winter','china','musk'].includes(episodeId)?'"Times New Roman", "Liberation Serif", serif':'"DejaVu Sans", sans-serif'}`;
+ ctx.save();ctx.font=`600 ${size}px ${['trial','meta','winter','china','musk','ww2'].includes(episodeId)?'"Times New Roman", "Liberation Serif", serif':'"DejaVu Sans", sans-serif'}`;
  ctx.textAlign='center';ctx.textBaseline='middle';
  const lines:string[]=[];
  for(const paragraph of value.split('\n')){let line='';for(const word of paragraph.split(/\s+/)){const candidate=line?line+' '+word:word;if(line&&ctx.measureText(candidate).width>width*.86){lines.push(line);line=word}else line=candidate;}if(line)lines.push(line);}

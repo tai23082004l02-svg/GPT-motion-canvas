@@ -1,3 +1,4 @@
+import ww2Shots from './projects/ww2/shots.json';
 import muskShots from './projects/musk/shots.json';
 import chinaShots from './projects/china/shots.json';
 import winterShots from './projects/winter/shots.json';
@@ -8,6 +9,7 @@ import carShots from './projects/car/shots.json';
 import creditShots from './projects/credit/cues.json';
 export type Episode={id:string;number:string;title:string;description:string;duration:number;voice:string;poster:string;audio:string;captions:string;date:string;scenes:{start:number;end:number;title:string;chapter?:string}[];load:()=>Promise<any>};
 const records:Episode[]=[
+{id:'ww2',number:'09',title:'Which Countries Gained the Most After World War II?',description:'Ai vươn lên sau năm 1945? Phân biệt sức mạnh kinh tế, ảnh hưởng địa chính trị, phục hồi dài hạn và quyền tự quyết qua sáu trường hợp.',duration:1154.905125,voice:'Michael · Kokoro',poster:'/images/ww2.png',audio:'/audio/ww2.mp3',captions:'/captions/ww2.srt',date:'24.10.2026',scenes:ww2Shots,load:()=>import('./projects/ww2/project?project')},
 {id:'musk',number:'08',title:'How Rich Is Elon Musk, Really? The iPhone Test',description:'Từ gần 770 triệu iPhone 18 Pro quy đổi đến tài sản ròng, cổ phần, định giá, thanh khoản và những lựa chọn mà tài sản lớn tạo ra. Số liệu chốt ngày 23/10/2026.',duration:1059.736625,voice:'Michael · Kokoro',poster:'/images/musk.png',audio:'/audio/musk.mp3',captions:'/captions/musk.srt',date:'24.10.2026',scenes:muskShots,load:()=>import('./projects/musk/project?project')},
 {id:'china',number:'07',title:'What If Donald Trump Had Grown Up in China?',description:'Một câu chuyện giả tưởng: cùng một nhân vật biếm họa, nhưng khác gia đình, thời điểm và luật chơi. Ba ngã rẽ về xây dựng, truyền thông và ảnh hưởng.',duration:549.7020833333333,voice:'Michael · Kokoro',poster:'/images/china.png',audio:'/audio/china.mp3',captions:'/captions/china.srt',date:'24.10.2026',scenes:chinaShots,load:()=>import('./projects/china/project?project')},
 {id:'winter',number:'06',title:'How Did People Survive Winter Before Electricity?',description:'Theo chân Joan, Will và Kit qua một ngày đông ở miền nam nước Anh khoảng năm 1400: giữ ấm, mang củi, nấu ăn và vượt qua đêm dài.',duration:540.9960833333333,voice:'Michael · Kokoro',poster:'/images/winter.png',audio:'/audio/winter.mp3',captions:'/captions/winter.srt',date:'24.10.2026',scenes:winterShots,load:()=>import('./projects/winter/project?project')},
