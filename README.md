@@ -12,7 +12,18 @@
 
 Alex trong phòng xem đã được giữ ổn định đầu/cổ theo góp ý. Các file MP4 cũ vẫn nằm trong mục tải bên dưới; trình xem không dùng chúng.
 
-## Tập 007 — mới nhất · SCOPIVO
+## Tập 008 — mới nhất · SCOPIVO
+
+**How Rich Is Elon Musk, Really? The iPhone Test** — từ gần 770 triệu iPhone tương đương đến tài sản ròng, quyền sở hữu và khả năng chuyển thành tiền.
+
+**17 phút 40 giây · 53 đoạn kể / 291 lượt cắt hình · Kokoro Michael · Times New Roman/serif**
+
+- **[Xem tập 008 online](https://tai23082004l02-svg.github.io/GPT-motion-canvas/?episode=musk)**
+- [Kịch bản, nguồn, phụ đề, thumbnail và thông tin đăng YouTube](episodes/musk-wealth/)
+
+![SCOPIVO Musk thumbnail](episodes/musk-wealth/deliverables/thumbnail.png)
+
+## Tập 007 · SCOPIVO
 
 **What If Donald Trump Had Grown Up in China?** — giả tưởng về ba ngã rẽ: doanh nhân xây dựng, người của công chúng và người tìm kiếm ảnh hưởng. Phân biệt bối cảnh có nguồn với những diễn biến hư cấu.
 

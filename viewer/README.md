@@ -21,7 +21,7 @@ Use a static host that supports HTTP byte ranges for audio seeking. Vite preview
 
 ## Latest episode
 
-SCOPIVO episode 007: [What If Donald Trump Had Grown Up in China?](https://tai23082004l02-svg.github.io/GPT-motion-canvas/?episode=china), about 9:10, 32 narration sections and 154 shot intervals with cuts every four seconds. Fictional scenarios and sourced context are labeled separately. Script, sources and publishing materials are in `../episodes/trump-china/`.
+SCOPIVO episode 008: [How Rich Is Elon Musk, Really? The iPhone Test](https://tai23082004l02-svg.github.io/GPT-motion-canvas/?episode=musk), 17:40, 53 narration sections and 291 shot intervals with cuts around every four seconds. Dated wealth equivalents and fictional finance examples are labeled. Script, sources and publishing materials are in `../episodes/musk-wealth/`.
 
 ## Features
 

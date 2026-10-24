@@ -1,6 +1,6 @@
 # Định hướng dựng — SCOPIVO: Elon Musk giàu đến mức nào?
 
-Bản lời thoại tiếng Anh khoảng 2.550 từ, đủ cho khoảng 18–20 phút tùy nhịp đọc và khoảng nghỉ. Thời lượng này là kết quả của nội dung, không phải mục tiêu phải kéo cho đủ. Chưa tạo audio/video ở gói kịch bản này.
+Bản dựng hoàn tất: 17 phút 40 giây, 2.550 từ, 53 đoạn kể và 291 lượt cắt hình, nhịp khoảng 4 giây. Giọng Kokoro Michael; thời lượng theo nội dung, không kéo dài để đạt mục tiêu.
 
 ## Mạch kể
 

@@ -1,6 +1,6 @@
 # Source snapshot and arithmetic
 
-Prepared 24 October 2026 for the English SCOPIVO script. These figures are a dated editorial snapshot, not a live net-worth feed. Refresh and re-check the comparisons if changing the snapshot. No narration, completed video or actual purchase is claimed by this script package.
+Prepared 24 October 2026 for the English SCOPIVO script. These figures are a dated editorial snapshot, not a live net-worth feed. Refresh and re-check the comparisons if changing the snapshot. The finished episode uses this frozen snapshot. No actual purchase is claimed.
 
 ## Inputs
 
