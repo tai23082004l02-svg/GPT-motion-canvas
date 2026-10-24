@@ -13,7 +13,11 @@ export default makeScene2D(function*(view){
   const walk=(who:string,x1:number,x2:number,y=180,at=0,sc=1,carry=false)=>{const a=person(w,x1,y,()=>t()>at&&t()<at+3.7?t()-at:0,who,carry?'carryWalk':'walk','neutral',sc);a.g.x(()=>x1+(x2-x1)*R(at,3.7));return a};
   const family=(night=false)=>{background(w,'hall',night);fire(w,-370,255,t,.85);person(w,-650,150,t,'will','cold','cold',1.02);person(w,190,185,t,'joan','stand','happy',1.08);person(w,500,247,t,'kit','bowl','happy',.72);bowl(w,500,212,.52)};
   const heading=(v:string)=>{text(w,v,0,-390,60);line(w,[[-230,-338],[230,-338]],C.gold,5)};
-  if(!['air','rights','autumn','preserve','noPotato','unequal','modern'].includes(k)){w.scale(()=>1+.055*R(3,Math.max(2,dur-5)));w.x(()=>-18*R(3,Math.max(2,dur-5)));}
+  // Cut between wide and tighter compositions every ~5 seconds; the soundtrack stays continuous.
+  const diagram=['air','rights','autumn','preserve','noPotato','unequal','modern'].includes(k);
+  const shot=()=>Math.floor(t()/5);
+  w.scale(()=>{const beat=shot()%4;return (beat===0?1:beat===1?(diagram?1.08:1.16):beat===2?1.025:(diagram?1.06:1.11))+.008*((t()%5)/5)});
+  w.x(()=>diagram?0:shot()%4===1?-24:shot()%4===3?20:0);
   if(k==='hook'){
    background(w,'hall',true);bed(w,320,275,1.15);person(w,330,200,t,'will','sit','surprise',1.2);fire(w,-370,255,t,.36,false);
    const breath=disk(w,411,-3,38,'#ffffff77');breath.x(()=>411+((t()%3)/3)*95);breath.scale(()=>.4+(t()%3)/3);breath.opacity(()=>1-(t()%3)/3);
