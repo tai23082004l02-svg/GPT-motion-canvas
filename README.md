@@ -12,7 +12,18 @@
 
 Alex trong phòng xem đã được giữ ổn định đầu/cổ theo góp ý. Các file MP4 cũ vẫn nằm trong mục tải bên dưới; trình xem không dùng chúng.
 
-## Tập 006 — mới nhất · SCOPIVO
+## Tập 007 — mới nhất · SCOPIVO
+
+**What If Donald Trump Had Grown Up in China?** — giả tưởng về ba ngã rẽ: doanh nhân xây dựng, người của công chúng và người tìm kiếm ảnh hưởng. Phân biệt bối cảnh có nguồn với những diễn biến hư cấu.
+
+**9 phút 10 giây · 32 đoạn kể / 154 lượt cắt hình · Kokoro Michael · Times New Roman/serif**
+
+- **[Xem tập 007 online](https://tai23082004l02-svg.github.io/GPT-motion-canvas/?episode=china)**
+- [Kịch bản, nguồn, phụ đề và thông tin đăng YouTube](episodes/trump-china/)
+
+![SCOPIVO what-if thumbnail](episodes/trump-china/deliverables/thumbnail.png)
+
+## Tập 006 · SCOPIVO
 
 **How Did People Survive Winter Before Electricity?** — theo chân Joan, Will và Kit, một gia đình hư cấu ở miền nam nước Anh khoảng năm 1400. Người que có biểu cảm, nền minh họa, đạo cụ và hành động theo câu chuyện.
 

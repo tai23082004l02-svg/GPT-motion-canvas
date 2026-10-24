@@ -21,7 +21,7 @@ Use a static host that supports HTTP byte ranges for audio seeking. Vite preview
 
 ## Latest episode
 
-SCOPIVO episode 006: [How Did People Survive Winter Before Electricity?](https://tai23082004l02-svg.github.io/GPT-motion-canvas/?episode=winter), 9:01, 32 scenes. Original reusable stick characters and generated background plates. Research, disclosure, production scripts and publishing materials are in `../episodes/winter-before-electricity/`.
+SCOPIVO episode 007: [What If Donald Trump Had Grown Up in China?](https://tai23082004l02-svg.github.io/GPT-motion-canvas/?episode=china), about 9:10, 32 narration sections and 154 shot intervals with cuts every four seconds. Fictional scenarios and sourced context are labeled separately. Script, sources and publishing materials are in `../episodes/trump-china/`.
 
 ## Features
 

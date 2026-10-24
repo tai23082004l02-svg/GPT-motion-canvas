@@ -1,0 +1,19 @@
+# Evidence and counterfactual boundaries
+
+Reviewed 24 October 2026. This is a fictional thought experiment, not a biography of a real Chinese counterpart, a claim about ethnicity, or a prediction of anyone’s political future. The assumed urban upbringing, recognizable cartoon hair, family circumstances, business meetings, reactions and all alternate career outcomes are inventions. The title, narration and on-screen labels disclose the distinction.
+
+## Historical anchors
+
+- **Real biography:** [Donald J. Trump Presidential Library / US National Archives](https://www.trumplibrary.gov/trumps/president-donald-j-trump). Birth in Queens, 14 June 1946; property career following his father; *The Apprentice* and electoral career. The script paraphrases only basic chronology. No institutional endorsement is implied.
+- **1949 and 1966–1976:** [The UK National Archives: Cultural Revolution educational resource](https://www.nationalarchives.gov.uk/education/resources/the-cultural-revolution/), cross-checked against [China.org.cn historical chronology](https://www.china.org.cn/e-china/history/Contemporary.htm). PRC founded in 1949; Cultural Revolution 1966–1976. Age statements mean the age he would turn in the given calendar year, not necessarily his age at an event’s first day. No experience of an invented family during the upheaval is asserted as fact.
+- **Reforms from 1978:** [Bert Hofman, World Bank, Reflections on forty years of China’s reforms](https://blogs.worldbank.org/en/eastasiapacific/reflections-on-forty-years-of-china-reforms). Supports gradual change and expanding market opportunities. No growth forecast or specific fictional business probability is given.
+- **Shenzhen in 1980:** [State Council: anniversary of Shenzhen SEZ](https://english.www.gov.cn/news/videos/202010/15/content_WS5f87a4f7c6d0f7257693d956.html). Supports the zone’s establishment; does not establish that our character could obtain access or financing.
+- **Land and political institutions:** [PRC Constitution, official Ministry of Justice English text](https://en.moj.gov.cn/2021-06/22/c_634901.htm), Articles 1, 10 and 79. Urban state land ownership and lawful land-use-right transfer; Communist Party leadership; NPC election of the president. These are **general constitutional comparisons**, not a claim that every later provision or commercial practice already existed in 1980. Reforms and legal arrangements evolved. The land cutaway explicitly notes this. Constitutional text is evidence for the stated formal framework, not a complete account of practice or a description of how a fictional appointment would occur.
+
+## Interpretive limits
+
+The script deliberately asks what could change rather than asserting that the same adult personality, inheritance or network would survive a different childhood. It gives no probability estimates and does not conclude that the counterpart would certainly become rich, powerful, imprisoned or famous. The three branches are explanatory devices, not exhaustive options. China and the US are not treated as internally uniform or unchanged over time.
+
+Generic modern studio/office graphics and the lifelong yellow-haired caricature are visual shorthand. A modern smartphone is explicitly crossed out in the historical comparison. The construction plate suggests an early reform-era coastal city; the courtyard is generic. Neither is documentary evidence. Present-day formal comparisons are not retrojected wholesale onto the 1940s–1980s.
+
+All dialogue-like reaction cards are invented captions delivered within the narrator’s fictional scenario. The actual Trump is neither speaking nor endorsing the video. The generic Michael narration does not imitate his voice. Background music and editorial Foley are original procedural compositions. No racial costume, accent or facial-feature gag is used.

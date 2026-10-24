@@ -1,3 +1,4 @@
+import chinaShots from './projects/china/shots.json';
 import winterShots from './projects/winter/shots.json';
 import metaShots from './projects/meta/shots.json';
 import trialShots from './projects/trial/shots.json';
@@ -6,6 +7,7 @@ import carShots from './projects/car/shots.json';
 import creditShots from './projects/credit/cues.json';
 export type Episode={id:string;number:string;title:string;description:string;duration:number;voice:string;poster:string;audio:string;captions:string;date:string;scenes:{start:number;end:number;title:string;chapter?:string}[];load:()=>Promise<any>};
 const records:Episode[]=[
+{id:'china',number:'07',title:'What If Donald Trump Had Grown Up in China?',description:'Một câu chuyện giả tưởng: cùng một nhân vật biếm họa, nhưng khác gia đình, thời điểm và luật chơi. Ba ngã rẽ về xây dựng, truyền thông và ảnh hưởng.',duration:549.7020833333333,voice:'Michael · Kokoro',poster:'/images/china.png',audio:'/audio/china.mp3',captions:'/captions/china.srt',date:'24.10.2026',scenes:chinaShots,load:()=>import('./projects/china/project?project')},
 {id:'winter',number:'06',title:'How Did People Survive Winter Before Electricity?',description:'Theo chân Joan, Will và Kit qua một ngày đông ở miền nam nước Anh khoảng năm 1400: giữ ấm, mang củi, nấu ăn và vượt qua đêm dài.',duration:540.9960833333333,voice:'Michael · Kokoro',poster:'/images/winter.png',audio:'/audio/winter.mp3',captions:'/captions/winter.srt',date:'24.10.2026',scenes:winterShots,load:()=>import('./projects/winter/project?project')},
 {id:'meta',number:'05',title:'Why Scam Ads Keep Finding You — Meta’s New Lawsuit Explained',description:'Vụ kiện Rhode Island chống Meta, phản hồi của công ty và hành trình từ quảng cáo hấp dẫn đến nhóm chat đầu tư giả.',duration:430.378375,voice:'Michael · Kokoro',poster:'/images/meta.png',audio:'/audio/meta.mp3',captions:'/captions/meta.srt',date:'23.10.2026',scenes:metaShots,load:()=>import('./projects/meta/project?project')},
 {id:'trial',number:'04',title:'Why Your Free Trial Is So Hard to Cancel',description:'Alex chỉ muốn xem một phim tài liệu. Một tháng sau, khoản gia hạn đưa anh vào mê cung tìm nút hủy đăng ký.',duration:390.76441666666665,voice:'Michael · Kokoro',poster:'/images/trial.png',audio:'/audio/trial.mp3',captions:'/captions/trial.srt',date:'23.10.2026',scenes:trialShots,load:()=>import('./projects/trial/project?project')},
